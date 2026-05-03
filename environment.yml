@@ -1,0 +1,10 @@
+name: carolina_lake_env
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - pandas
+  - duckdb
+  - numpy
+prefix: /opt/anaconda3/envs/carolina_lake_env
