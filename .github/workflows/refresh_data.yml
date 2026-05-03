@@ -1,0 +1,45 @@
+name: Refresh Lake Conditions Data
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"  # Mondays at 8:00 AM Eastern
+  workflow_dispatch:
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Set PYTHONPATH
+        run: echo "PYTHONPATH=$PWD" >> $GITHUB_ENV
+
+      - name: Run pipeline
+        run: |
+          python src/ingest/ingest_weather.py
+          python src/transform/processed_weather.py
+          python src/transform/modeled_weather.py
+          python src/transform/consumption_build_weather.py
+          python src/db/load_to_duckdb.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git commit -m "refresh lake conditions data" || echo "No data changes to commit"
+          git push
