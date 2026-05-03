@@ -1,18 +1,30 @@
 from pathlib import Path
 
+import duckdb
 import pandas as pd
 import streamlit as st
 
-DATA_PATH = Path("data/consumption/lake_weather_dashboard.csv")
+DB_PATH = Path("data/lake_conditions.duckdb")
 
 
 @st.cache_data
 def load_data() -> pd.DataFrame:
-    if not DATA_PATH.exists():
-        st.error("No data found. Run the pipeline first.")
+    if not DB_PATH.exists():
+        st.error("DuckDB database not found. Run the pipeline first.")
         return pd.DataFrame()
 
-    df = pd.read_csv(DATA_PATH)
+    conn = duckdb.connect(str(DB_PATH))
+
+    df = conn.execute(
+        """
+        SELECT *
+        FROM lake_weather
+        ORDER BY weather_date
+        """
+    ).df()
+
+    conn.close()
+
     df["weather_date"] = pd.to_datetime(df["weather_date"])
 
     return df
