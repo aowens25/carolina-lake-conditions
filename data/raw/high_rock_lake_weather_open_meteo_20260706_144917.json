@@ -1,0 +1,72 @@
+{
+  "source_system": "open_meteo",
+  "lake_slug": "high_rock_lake",
+  "lake_name": "High Rock Lake",
+  "latitude": 35.5873,
+  "longitude": -80.2537,
+  "api_url": "https://api.open-meteo.com/v1/forecast?latitude=35.5873&longitude=-80.2537&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Cwindspeed_10m_max&timezone=America%2FNew_York&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch",
+  "ingested_at_utc": "2026-07-06T14:49:17.125548+00:00",
+  "raw_payload": {
+    "latitude": 35.59314,
+    "longitude": -80.24154,
+    "generationtime_ms": 0.21255016326904297,
+    "utc_offset_seconds": -14400,
+    "timezone": "America/New_York",
+    "timezone_abbreviation": "GMT-4",
+    "elevation": 225.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0F",
+      "temperature_2m_min": "\u00b0F",
+      "precipitation_sum": "inch",
+      "windspeed_10m_max": "mp/h"
+    },
+    "daily": {
+      "time": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "temperature_2m_max": [
+        94.6,
+        91.5,
+        99.1,
+        98.3,
+        99.1,
+        99.7,
+        94.8
+      ],
+      "temperature_2m_min": [
+        68.3,
+        72.7,
+        72.2,
+        73.1,
+        70.8,
+        73.0,
+        67.9
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.071,
+        0.0,
+        0.087,
+        0.031,
+        0.012,
+        0.094
+      ],
+      "windspeed_10m_max": [
+        16.4,
+        16.5,
+        10.3,
+        16.8,
+        11.4,
+        11.0,
+        20.6
+      ]
+    }
+  }
+}
