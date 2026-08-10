@@ -1,0 +1,72 @@
+{
+  "source_system": "open_meteo",
+  "lake_slug": "lake_tillery",
+  "lake_name": "Lake Tillery",
+  "latitude": 35.2271,
+  "longitude": -80.0734,
+  "api_url": "https://api.open-meteo.com/v1/forecast?latitude=35.2271&longitude=-80.0734&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Cwindspeed_10m_max&timezone=America%2FNew_York&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch",
+  "ingested_at_utc": "2026-08-10T12:37:29.611495+00:00",
+  "raw_payload": {
+    "latitude": 35.235188,
+    "longitude": -80.056114,
+    "generationtime_ms": 0.11599063873291016,
+    "utc_offset_seconds": -14400,
+    "timezone": "America/New_York",
+    "timezone_abbreviation": "GMT-4",
+    "elevation": 83.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0F",
+      "temperature_2m_min": "\u00b0F",
+      "precipitation_sum": "inch",
+      "windspeed_10m_max": "mp/h"
+    },
+    "daily": {
+      "time": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16"
+      ],
+      "temperature_2m_max": [
+        96.2,
+        98.2,
+        101.8,
+        102.0,
+        103.3,
+        89.3,
+        100.8
+      ],
+      "temperature_2m_min": [
+        71.7,
+        74.1,
+        70.3,
+        70.9,
+        72.4,
+        72.6,
+        73.0
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.047,
+        0.114,
+        0.331,
+        0.106,
+        0.236
+      ],
+      "windspeed_10m_max": [
+        7.8,
+        9.2,
+        13.9,
+        8.4,
+        10.5,
+        7.1,
+        8.0
+      ]
+    }
+  }
+}
