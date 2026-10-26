@@ -1,0 +1,72 @@
+{
+  "source_system": "open_meteo",
+  "lake_slug": "lake_norman",
+  "lake_name": "Lake Norman",
+  "latitude": 35.481,
+  "longitude": -80.889,
+  "api_url": "https://api.open-meteo.com/v1/forecast?latitude=35.481&longitude=-80.889&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_sum%2Cwindspeed_10m_max&timezone=America%2FNew_York&temperature_unit=fahrenheit&windspeed_unit=mph&precipitation_unit=inch",
+  "ingested_at_utc": "2026-10-26T17:42:59.257267+00:00",
+  "raw_payload": {
+    "latitude": 35.47001,
+    "longitude": -80.87589,
+    "generationtime_ms": 0.8362531661987305,
+    "utc_offset_seconds": -14400,
+    "timezone": "America/New_York",
+    "timezone_abbreviation": "GMT-4",
+    "elevation": 253.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0F",
+      "temperature_2m_min": "\u00b0F",
+      "precipitation_sum": "inch",
+      "windspeed_10m_max": "mp/h"
+    },
+    "daily": {
+      "time": [
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "temperature_2m_max": [
+        68.3,
+        73.7,
+        70.2,
+        76.7,
+        79.1,
+        72.3,
+        64.1
+      ],
+      "temperature_2m_min": [
+        42.1,
+        44.1,
+        47.2,
+        51.4,
+        52.7,
+        56.8,
+        58.8
+      ],
+      "precipitation_sum": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.024,
+        2.185
+      ],
+      "windspeed_10m_max": [
+        4.4,
+        8.0,
+        7.6,
+        6.0,
+        4.6,
+        8.1,
+        15.4
+      ]
+    }
+  }
+}
