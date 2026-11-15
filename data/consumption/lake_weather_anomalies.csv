@@ -1,595 +1,598 @@
 lake_slug,lake_name,weather_date,anomaly_score,is_anomaly
-high_rock_lake,High Rock Lake,2026-05-02,0.4991433672998078,False
-high_rock_lake,High Rock Lake,2026-05-03,0.44397723321432236,False
-high_rock_lake,High Rock Lake,2026-05-04,0.49926936303189623,False
-high_rock_lake,High Rock Lake,2026-05-05,0.5269414148135881,False
-high_rock_lake,High Rock Lake,2026-05-06,0.4616636009526329,False
-high_rock_lake,High Rock Lake,2026-05-07,0.7614479475118447,True
-high_rock_lake,High Rock Lake,2026-05-08,0.48457523535759495,False
-high_rock_lake,High Rock Lake,2026-05-09,0.42766522819080827,False
-high_rock_lake,High Rock Lake,2026-05-10,0.5001630410962865,False
-high_rock_lake,High Rock Lake,2026-05-11,0.4455327535902748,False
-high_rock_lake,High Rock Lake,2026-05-12,0.4273529524504448,False
-high_rock_lake,High Rock Lake,2026-05-13,0.5170105068327187,False
-high_rock_lake,High Rock Lake,2026-05-14,0.4961001796480621,False
-high_rock_lake,High Rock Lake,2026-05-15,0.4520420671985823,False
-high_rock_lake,High Rock Lake,2026-05-16,0.4979395356542486,False
-high_rock_lake,High Rock Lake,2026-05-17,0.40476013424343593,False
-high_rock_lake,High Rock Lake,2026-05-18,0.38749096840552916,False
-high_rock_lake,High Rock Lake,2026-05-19,0.37819358847017803,False
-high_rock_lake,High Rock Lake,2026-05-20,0.3730761974410616,False
-high_rock_lake,High Rock Lake,2026-05-21,0.4436552751948493,False
-high_rock_lake,High Rock Lake,2026-05-22,0.4369626469629544,False
-high_rock_lake,High Rock Lake,2026-05-23,0.4755311946156774,False
-high_rock_lake,High Rock Lake,2026-05-24,0.3747885122378628,False
-high_rock_lake,High Rock Lake,2026-05-25,0.4630929632287,False
-high_rock_lake,High Rock Lake,2026-05-26,0.38887584269524683,False
-high_rock_lake,High Rock Lake,2026-05-27,0.4227519584306708,False
-high_rock_lake,High Rock Lake,2026-05-28,0.473976671113231,False
-high_rock_lake,High Rock Lake,2026-05-29,0.4237630237431292,False
-high_rock_lake,High Rock Lake,2026-05-30,0.4804794170367587,False
-high_rock_lake,High Rock Lake,2026-05-31,0.5838819081554905,True
-high_rock_lake,High Rock Lake,2026-06-01,0.41130018850849404,False
-high_rock_lake,High Rock Lake,2026-06-02,0.43889192068518906,False
-high_rock_lake,High Rock Lake,2026-06-03,0.4087521184967184,False
-high_rock_lake,High Rock Lake,2026-06-04,0.447425174299732,False
-high_rock_lake,High Rock Lake,2026-06-05,0.3889158092266589,False
-high_rock_lake,High Rock Lake,2026-06-06,0.4109724318007153,False
-high_rock_lake,High Rock Lake,2026-06-07,0.4209138794278479,False
-high_rock_lake,High Rock Lake,2026-06-08,0.4237641246234233,False
-high_rock_lake,High Rock Lake,2026-06-09,0.37726424161225103,False
-high_rock_lake,High Rock Lake,2026-06-10,0.40298746064722246,False
-high_rock_lake,High Rock Lake,2026-06-11,0.4388486934932489,False
-high_rock_lake,High Rock Lake,2026-06-12,0.6144761233285184,True
-high_rock_lake,High Rock Lake,2026-06-13,0.43118095138703394,False
-high_rock_lake,High Rock Lake,2026-06-14,0.4633943201830461,False
-high_rock_lake,High Rock Lake,2026-06-15,0.3991923443382203,False
-high_rock_lake,High Rock Lake,2026-06-16,0.37246378237735295,False
-high_rock_lake,High Rock Lake,2026-06-17,0.4023529445976834,False
-high_rock_lake,High Rock Lake,2026-06-18,0.5279091955092391,False
-high_rock_lake,High Rock Lake,2026-06-19,0.5302202596635486,False
-high_rock_lake,High Rock Lake,2026-06-20,0.38049914830833587,False
-high_rock_lake,High Rock Lake,2026-06-21,0.4000639261713667,False
-high_rock_lake,High Rock Lake,2026-06-22,0.41769317708271153,False
-high_rock_lake,High Rock Lake,2026-06-23,0.4070954294393795,False
-high_rock_lake,High Rock Lake,2026-06-24,0.37925007590746923,False
-high_rock_lake,High Rock Lake,2026-06-25,0.38405208070291963,False
-high_rock_lake,High Rock Lake,2026-06-26,0.4093193100042537,False
-high_rock_lake,High Rock Lake,2026-06-27,0.3918640627504744,False
-high_rock_lake,High Rock Lake,2026-06-28,0.4152907972151697,False
-high_rock_lake,High Rock Lake,2026-06-29,0.38706482681694615,False
-high_rock_lake,High Rock Lake,2026-06-30,0.43887040461936133,False
-high_rock_lake,High Rock Lake,2026-07-01,0.4023988136441972,False
-high_rock_lake,High Rock Lake,2026-07-02,0.4163643694112768,False
-high_rock_lake,High Rock Lake,2026-07-03,0.41648230352692794,False
-high_rock_lake,High Rock Lake,2026-07-04,0.4536198183243506,False
-high_rock_lake,High Rock Lake,2026-07-05,0.5062355071838032,False
-high_rock_lake,High Rock Lake,2026-07-06,0.47137801895003645,False
-high_rock_lake,High Rock Lake,2026-07-07,0.5153915763135032,False
-high_rock_lake,High Rock Lake,2026-07-08,0.41772610180998954,False
-high_rock_lake,High Rock Lake,2026-07-09,0.4248830772150714,False
-high_rock_lake,High Rock Lake,2026-07-10,0.5455804909567782,False
-high_rock_lake,High Rock Lake,2026-07-11,0.49360410424112483,False
-high_rock_lake,High Rock Lake,2026-07-12,0.4440595348824235,False
-high_rock_lake,High Rock Lake,2026-07-13,0.6293650137660717,True
-high_rock_lake,High Rock Lake,2026-07-14,0.37695586942370035,False
-high_rock_lake,High Rock Lake,2026-07-15,0.39235487157879007,False
-high_rock_lake,High Rock Lake,2026-07-16,0.4285540064702908,False
-high_rock_lake,High Rock Lake,2026-07-17,0.5446887300965868,False
-high_rock_lake,High Rock Lake,2026-07-18,0.4459847252285314,False
-high_rock_lake,High Rock Lake,2026-07-19,0.4216661275321485,False
-high_rock_lake,High Rock Lake,2026-07-20,0.3850363420398917,False
-high_rock_lake,High Rock Lake,2026-07-21,0.49690134066166,False
-high_rock_lake,High Rock Lake,2026-07-22,0.5292179099329598,False
-high_rock_lake,High Rock Lake,2026-07-23,0.41617845260703223,False
-high_rock_lake,High Rock Lake,2026-07-24,0.36947251256350455,False
-high_rock_lake,High Rock Lake,2026-07-25,0.5393905054789501,False
-high_rock_lake,High Rock Lake,2026-07-26,0.3910113533213143,False
-high_rock_lake,High Rock Lake,2026-07-27,0.4182946756252276,False
-high_rock_lake,High Rock Lake,2026-07-28,0.5850210221802565,True
-high_rock_lake,High Rock Lake,2026-07-29,0.3861893654762705,False
-high_rock_lake,High Rock Lake,2026-07-30,0.38385441032654705,False
-high_rock_lake,High Rock Lake,2026-07-31,0.37833456946784805,False
-high_rock_lake,High Rock Lake,2026-08-01,0.43171915686933016,False
-high_rock_lake,High Rock Lake,2026-08-02,0.47185949587438714,False
-high_rock_lake,High Rock Lake,2026-08-03,0.39191389467752347,False
-high_rock_lake,High Rock Lake,2026-08-04,0.5571572003325853,False
-high_rock_lake,High Rock Lake,2026-08-05,0.4237128894120408,False
-high_rock_lake,High Rock Lake,2026-08-06,0.38848477188371155,False
-high_rock_lake,High Rock Lake,2026-08-07,0.3964673159340091,False
-high_rock_lake,High Rock Lake,2026-08-08,0.40605870493996704,False
-high_rock_lake,High Rock Lake,2026-08-09,0.3967973632705662,False
-high_rock_lake,High Rock Lake,2026-08-10,0.37652010364589583,False
-high_rock_lake,High Rock Lake,2026-08-11,0.41981668480902085,False
-high_rock_lake,High Rock Lake,2026-08-12,0.4886663143487997,False
-high_rock_lake,High Rock Lake,2026-08-13,0.4432999138699429,False
-high_rock_lake,High Rock Lake,2026-08-14,0.5511637852867836,False
-high_rock_lake,High Rock Lake,2026-08-15,0.421919022990226,False
-high_rock_lake,High Rock Lake,2026-08-16,0.4553061098482091,False
-high_rock_lake,High Rock Lake,2026-08-17,0.39221209303101745,False
-high_rock_lake,High Rock Lake,2026-08-18,0.41167293337919014,False
-high_rock_lake,High Rock Lake,2026-08-19,0.44927268794647246,False
-high_rock_lake,High Rock Lake,2026-08-20,0.48653006673269317,False
-high_rock_lake,High Rock Lake,2026-08-21,0.6691272717830286,True
-high_rock_lake,High Rock Lake,2026-08-22,0.4663956636334482,False
-high_rock_lake,High Rock Lake,2026-08-23,0.4286396951326108,False
-high_rock_lake,High Rock Lake,2026-08-24,0.3757754052236019,False
-high_rock_lake,High Rock Lake,2026-08-25,0.3694027850335769,False
-high_rock_lake,High Rock Lake,2026-08-26,0.43413352008885503,False
-high_rock_lake,High Rock Lake,2026-08-27,0.5282244793702975,False
-high_rock_lake,High Rock Lake,2026-08-28,0.3938757231341973,False
-high_rock_lake,High Rock Lake,2026-08-29,0.412896330775881,False
-high_rock_lake,High Rock Lake,2026-08-30,0.38479166133296344,False
-high_rock_lake,High Rock Lake,2026-08-31,0.3914739612238412,False
-high_rock_lake,High Rock Lake,2026-09-01,0.39982536640377864,False
-high_rock_lake,High Rock Lake,2026-09-02,0.42671124771939595,False
-high_rock_lake,High Rock Lake,2026-09-03,0.4116198402385007,False
-high_rock_lake,High Rock Lake,2026-09-04,0.40816016023312784,False
-high_rock_lake,High Rock Lake,2026-09-05,0.48599378823987055,False
-high_rock_lake,High Rock Lake,2026-09-06,0.4117389960463085,False
-high_rock_lake,High Rock Lake,2026-09-07,0.3827551362012864,False
-high_rock_lake,High Rock Lake,2026-09-08,0.397185129683998,False
-high_rock_lake,High Rock Lake,2026-09-09,0.38196521527788324,False
-high_rock_lake,High Rock Lake,2026-09-10,0.38591286844368655,False
-high_rock_lake,High Rock Lake,2026-09-11,0.4161826140101446,False
-high_rock_lake,High Rock Lake,2026-09-12,0.4386496898021177,False
-high_rock_lake,High Rock Lake,2026-09-13,0.41247253836758213,False
-high_rock_lake,High Rock Lake,2026-09-14,0.4072910713211026,False
-high_rock_lake,High Rock Lake,2026-09-15,0.38810430502363075,False
-high_rock_lake,High Rock Lake,2026-09-16,0.3880393092825804,False
-high_rock_lake,High Rock Lake,2026-09-17,0.3935576623333273,False
-high_rock_lake,High Rock Lake,2026-09-18,0.40666222946360087,False
-high_rock_lake,High Rock Lake,2026-09-19,0.42245387585990885,False
-high_rock_lake,High Rock Lake,2026-09-20,0.3798704108926567,False
-high_rock_lake,High Rock Lake,2026-09-21,0.42568273126412254,False
-high_rock_lake,High Rock Lake,2026-09-22,0.4354869053251756,False
-high_rock_lake,High Rock Lake,2026-09-23,0.5689133297298556,False
-high_rock_lake,High Rock Lake,2026-09-24,0.5556214344527212,False
-high_rock_lake,High Rock Lake,2026-09-25,0.41254198479521886,False
-high_rock_lake,High Rock Lake,2026-09-26,0.44674569059317093,False
-high_rock_lake,High Rock Lake,2026-09-27,0.43551223295215785,False
-high_rock_lake,High Rock Lake,2026-09-28,0.41002046887800936,False
-high_rock_lake,High Rock Lake,2026-09-29,0.41529294782729004,False
-high_rock_lake,High Rock Lake,2026-09-30,0.39912077784597655,False
-high_rock_lake,High Rock Lake,2026-10-01,0.377063692084296,False
-high_rock_lake,High Rock Lake,2026-10-02,0.37462543587317104,False
-high_rock_lake,High Rock Lake,2026-10-03,0.6314930640780733,True
-high_rock_lake,High Rock Lake,2026-10-04,0.46965997387510616,False
-high_rock_lake,High Rock Lake,2026-10-05,0.4044672082850663,False
-high_rock_lake,High Rock Lake,2026-10-06,0.4069470848698799,False
-high_rock_lake,High Rock Lake,2026-10-07,0.4239579457247884,False
-high_rock_lake,High Rock Lake,2026-10-08,0.39410129845351216,False
-high_rock_lake,High Rock Lake,2026-10-09,0.3996590238984282,False
-high_rock_lake,High Rock Lake,2026-10-10,0.4211923053935774,False
-high_rock_lake,High Rock Lake,2026-10-11,0.5783892487892396,True
-high_rock_lake,High Rock Lake,2026-10-12,0.4075301687733589,False
-high_rock_lake,High Rock Lake,2026-10-13,0.4176376179817054,False
-high_rock_lake,High Rock Lake,2026-10-14,0.38819229466286087,False
-high_rock_lake,High Rock Lake,2026-10-15,0.4023651738085158,False
-high_rock_lake,High Rock Lake,2026-10-16,0.5082889625929664,False
-high_rock_lake,High Rock Lake,2026-10-17,0.5283293852164791,False
-high_rock_lake,High Rock Lake,2026-10-18,0.5161231609932873,False
-high_rock_lake,High Rock Lake,2026-10-19,0.4636140042773036,False
-high_rock_lake,High Rock Lake,2026-10-20,0.45595628726374554,False
-high_rock_lake,High Rock Lake,2026-10-21,0.4251104636281232,False
-high_rock_lake,High Rock Lake,2026-10-22,0.45100891805733534,False
-high_rock_lake,High Rock Lake,2026-10-23,0.4324224032251982,False
-high_rock_lake,High Rock Lake,2026-10-24,0.46081278743291754,False
-high_rock_lake,High Rock Lake,2026-10-25,0.45877974013960493,False
-high_rock_lake,High Rock Lake,2026-10-26,0.4704411264561352,False
-high_rock_lake,High Rock Lake,2026-10-27,0.4357678710069172,False
-high_rock_lake,High Rock Lake,2026-10-28,0.4243454938530093,False
-high_rock_lake,High Rock Lake,2026-10-29,0.42062344270871044,False
-high_rock_lake,High Rock Lake,2026-10-30,0.48883136050098697,False
-high_rock_lake,High Rock Lake,2026-10-31,0.41558607643780615,False
-high_rock_lake,High Rock Lake,2026-11-01,0.49004500099348547,False
-high_rock_lake,High Rock Lake,2026-11-02,0.4400950764397071,False
-high_rock_lake,High Rock Lake,2026-11-03,0.4227669899193015,False
-high_rock_lake,High Rock Lake,2026-11-04,0.40829933761888654,False
-high_rock_lake,High Rock Lake,2026-11-05,0.4367842172979637,False
-high_rock_lake,High Rock Lake,2026-11-06,0.4812236381582586,False
-high_rock_lake,High Rock Lake,2026-11-07,0.4169866409163404,False
-high_rock_lake,High Rock Lake,2026-11-08,0.4589012622879997,False
-high_rock_lake,High Rock Lake,2026-11-14,0.6080836006122544,True
-high_rock_lake,High Rock Lake,2026-11-15,0.5731980903280766,False
-high_rock_lake,High Rock Lake,2026-11-16,0.5824465848166845,True
-high_rock_lake,High Rock Lake,2026-11-17,0.5719145585876498,False
-high_rock_lake,High Rock Lake,2026-11-18,0.5586455399085316,False
-high_rock_lake,High Rock Lake,2026-11-19,0.5174313536621985,False
-high_rock_lake,High Rock Lake,2026-11-20,0.47185060185004735,False
-lake_norman,Lake Norman,2026-05-02,0.4788567914877446,False
-lake_norman,Lake Norman,2026-05-03,0.456823792398711,False
-lake_norman,Lake Norman,2026-05-04,0.4951591926582376,False
-lake_norman,Lake Norman,2026-05-05,0.5126280405011993,False
-lake_norman,Lake Norman,2026-05-06,0.4651369688245017,False
-lake_norman,Lake Norman,2026-05-07,0.7009020012164852,True
-lake_norman,Lake Norman,2026-05-08,0.4518894938583671,False
-lake_norman,Lake Norman,2026-05-09,0.41786522638086987,False
-lake_norman,Lake Norman,2026-05-10,0.5001858283613234,False
-lake_norman,Lake Norman,2026-05-11,0.4651170870145704,False
-lake_norman,Lake Norman,2026-05-12,0.4142337632761854,False
-lake_norman,Lake Norman,2026-05-13,0.48356705809180095,False
-lake_norman,Lake Norman,2026-05-14,0.4931710448164698,False
-lake_norman,Lake Norman,2026-05-15,0.44488919869544186,False
-lake_norman,Lake Norman,2026-05-16,0.4821041793868165,False
-lake_norman,Lake Norman,2026-05-17,0.42027904753453615,False
-lake_norman,Lake Norman,2026-05-18,0.37042298635610593,False
-lake_norman,Lake Norman,2026-05-19,0.37155910421630806,False
-lake_norman,Lake Norman,2026-05-20,0.369449760978715,False
-lake_norman,Lake Norman,2026-05-21,0.4024836981176175,False
-lake_norman,Lake Norman,2026-05-22,0.44248296470143966,False
-lake_norman,Lake Norman,2026-05-23,0.428891339374339,False
-lake_norman,Lake Norman,2026-05-24,0.39341118727843727,False
-lake_norman,Lake Norman,2026-05-25,0.679052367780003,True
-lake_norman,Lake Norman,2026-05-26,0.5282073073899034,False
-lake_norman,Lake Norman,2026-05-27,0.39122487130714095,False
-lake_norman,Lake Norman,2026-05-28,0.3908887547867255,False
-lake_norman,Lake Norman,2026-05-29,0.37628583050865666,False
-lake_norman,Lake Norman,2026-05-30,0.48992439696672846,False
-lake_norman,Lake Norman,2026-05-31,0.5639082310949858,False
-lake_norman,Lake Norman,2026-06-01,0.4260336665358974,False
-lake_norman,Lake Norman,2026-06-02,0.42745182203078663,False
-lake_norman,Lake Norman,2026-06-03,0.4090138051875107,False
-lake_norman,Lake Norman,2026-06-04,0.4509956515483618,False
-lake_norman,Lake Norman,2026-06-05,0.39169181591120145,False
-lake_norman,Lake Norman,2026-06-06,0.38433714884612635,False
-lake_norman,Lake Norman,2026-06-07,0.3973633489895574,False
-lake_norman,Lake Norman,2026-06-08,0.37109207551864154,False
-lake_norman,Lake Norman,2026-06-09,0.6129512589916423,True
-lake_norman,Lake Norman,2026-06-10,0.3772264210997333,False
-lake_norman,Lake Norman,2026-06-11,0.4180086101315241,False
-lake_norman,Lake Norman,2026-06-12,0.5630218644469074,False
-lake_norman,Lake Norman,2026-06-13,0.43156444205324046,False
-lake_norman,Lake Norman,2026-06-14,0.409696198300284,False
-lake_norman,Lake Norman,2026-06-15,0.37319380727367546,False
-lake_norman,Lake Norman,2026-06-16,0.37074616890841794,False
-lake_norman,Lake Norman,2026-06-17,0.39297462747317524,False
-lake_norman,Lake Norman,2026-06-18,0.4901494362519454,False
-lake_norman,Lake Norman,2026-06-19,0.44382577967645326,False
-lake_norman,Lake Norman,2026-06-20,0.3862810348756565,False
-lake_norman,Lake Norman,2026-06-21,0.390360398472701,False
-lake_norman,Lake Norman,2026-06-22,0.4466647988465419,False
-lake_norman,Lake Norman,2026-06-23,0.43339802581964215,False
-lake_norman,Lake Norman,2026-06-24,0.38421429284608527,False
-lake_norman,Lake Norman,2026-06-25,0.3706082309493965,False
-lake_norman,Lake Norman,2026-06-26,0.3810464688251358,False
-lake_norman,Lake Norman,2026-06-27,0.3967375468817314,False
-lake_norman,Lake Norman,2026-06-28,0.4201342041240672,False
-lake_norman,Lake Norman,2026-06-29,0.36602469906799956,False
-lake_norman,Lake Norman,2026-06-30,0.3960646182379839,False
-lake_norman,Lake Norman,2026-07-01,0.4131482857404708,False
-lake_norman,Lake Norman,2026-07-02,0.4033155727059051,False
-lake_norman,Lake Norman,2026-07-03,0.4155319292774052,False
-lake_norman,Lake Norman,2026-07-04,0.440403516173612,False
-lake_norman,Lake Norman,2026-07-05,0.46924113465566686,False
-lake_norman,Lake Norman,2026-07-06,0.3847473543817223,False
-lake_norman,Lake Norman,2026-07-07,0.40384140316711603,False
-lake_norman,Lake Norman,2026-07-08,0.48003394054124215,False
-lake_norman,Lake Norman,2026-07-09,0.44196587648637786,False
-lake_norman,Lake Norman,2026-07-10,0.6130335712950846,True
-lake_norman,Lake Norman,2026-07-11,0.4626771734742414,False
-lake_norman,Lake Norman,2026-07-12,0.41548777381003515,False
-lake_norman,Lake Norman,2026-07-13,0.5395694600075261,False
-lake_norman,Lake Norman,2026-07-14,0.38848673453798455,False
-lake_norman,Lake Norman,2026-07-15,0.3831049255945005,False
-lake_norman,Lake Norman,2026-07-16,0.44619019134413435,False
-lake_norman,Lake Norman,2026-07-17,0.5144728741799633,False
-lake_norman,Lake Norman,2026-07-18,0.44874261604616755,False
-lake_norman,Lake Norman,2026-07-19,0.3827432142425831,False
-lake_norman,Lake Norman,2026-07-20,0.4176700001291725,False
-lake_norman,Lake Norman,2026-07-21,0.5676493516894058,False
-lake_norman,Lake Norman,2026-07-22,0.49774916691909377,False
-lake_norman,Lake Norman,2026-07-23,0.39726538152683666,False
-lake_norman,Lake Norman,2026-07-24,0.36850695293990665,False
-lake_norman,Lake Norman,2026-07-25,0.47362960490612493,False
-lake_norman,Lake Norman,2026-07-26,0.3950732432571981,False
-lake_norman,Lake Norman,2026-07-27,0.41129845196336223,False
-lake_norman,Lake Norman,2026-07-28,0.4708993328451847,False
-lake_norman,Lake Norman,2026-07-29,0.38088146313653165,False
-lake_norman,Lake Norman,2026-07-30,0.37529729346027896,False
-lake_norman,Lake Norman,2026-07-31,0.3939470515040561,False
-lake_norman,Lake Norman,2026-08-01,0.3636583412882175,False
-lake_norman,Lake Norman,2026-08-02,0.43776851114982623,False
-lake_norman,Lake Norman,2026-08-03,0.3705221674142809,False
-lake_norman,Lake Norman,2026-08-04,0.39854223715638676,False
-lake_norman,Lake Norman,2026-08-05,0.43365564346442487,False
-lake_norman,Lake Norman,2026-08-06,0.38175067737241597,False
-lake_norman,Lake Norman,2026-08-07,0.3827055518455131,False
-lake_norman,Lake Norman,2026-08-08,0.3827445240192296,False
-lake_norman,Lake Norman,2026-08-09,0.38207996209402834,False
-lake_norman,Lake Norman,2026-08-10,0.3695756228077174,False
-lake_norman,Lake Norman,2026-08-11,0.3871021684181336,False
-lake_norman,Lake Norman,2026-08-12,0.4139021553161645,False
-lake_norman,Lake Norman,2026-08-13,0.4287905284295934,False
-lake_norman,Lake Norman,2026-08-14,0.47529004104072603,False
-lake_norman,Lake Norman,2026-08-15,0.41110297582984184,False
-lake_norman,Lake Norman,2026-08-16,0.48019918974666803,False
-lake_norman,Lake Norman,2026-08-17,0.4249936228221891,False
-lake_norman,Lake Norman,2026-08-18,0.4028162323121673,False
-lake_norman,Lake Norman,2026-08-19,0.4088942180343873,False
-lake_norman,Lake Norman,2026-08-20,0.49097080457160935,False
-lake_norman,Lake Norman,2026-08-21,0.4544655818459024,False
-lake_norman,Lake Norman,2026-08-22,0.41049377743122845,False
-lake_norman,Lake Norman,2026-08-23,0.4182838194640305,False
-lake_norman,Lake Norman,2026-08-24,0.37555594666295905,False
-lake_norman,Lake Norman,2026-08-25,0.3791204553701605,False
-lake_norman,Lake Norman,2026-08-26,0.40329094497915946,False
-lake_norman,Lake Norman,2026-08-27,0.4800937848335946,False
-lake_norman,Lake Norman,2026-08-28,0.4002644428981644,False
-lake_norman,Lake Norman,2026-08-29,0.39060666516866493,False
-lake_norman,Lake Norman,2026-08-30,0.3922024367923809,False
-lake_norman,Lake Norman,2026-08-31,0.42839197273605534,False
-lake_norman,Lake Norman,2026-09-01,0.4212249293281572,False
-lake_norman,Lake Norman,2026-09-02,0.4679721735100816,False
-lake_norman,Lake Norman,2026-09-03,0.40226759326839284,False
-lake_norman,Lake Norman,2026-09-04,0.3950348286717177,False
-lake_norman,Lake Norman,2026-09-05,0.5549101102688717,False
-lake_norman,Lake Norman,2026-09-06,0.4176552438089288,False
-lake_norman,Lake Norman,2026-09-07,0.37355734136560487,False
-lake_norman,Lake Norman,2026-09-08,0.38061145209835245,False
-lake_norman,Lake Norman,2026-09-09,0.3920321516478677,False
-lake_norman,Lake Norman,2026-09-10,0.39516731530015303,False
-lake_norman,Lake Norman,2026-09-11,0.4467308615908785,False
-lake_norman,Lake Norman,2026-09-12,0.44602979145532773,False
-lake_norman,Lake Norman,2026-09-13,0.398717490268609,False
-lake_norman,Lake Norman,2026-09-14,0.39494124737551295,False
-lake_norman,Lake Norman,2026-09-15,0.38568927444449413,False
-lake_norman,Lake Norman,2026-09-16,0.37517975218742544,False
-lake_norman,Lake Norman,2026-09-17,0.41123280436701093,False
-lake_norman,Lake Norman,2026-09-18,0.4037968187103722,False
-lake_norman,Lake Norman,2026-09-19,0.37148348986805424,False
-lake_norman,Lake Norman,2026-09-20,0.37096881239182344,False
-lake_norman,Lake Norman,2026-09-21,0.39767939448857187,False
-lake_norman,Lake Norman,2026-09-22,0.5830276340973284,True
-lake_norman,Lake Norman,2026-09-23,0.6361332038445225,True
-lake_norman,Lake Norman,2026-09-24,0.5570183687978544,False
-lake_norman,Lake Norman,2026-09-25,0.4181787662354845,False
-lake_norman,Lake Norman,2026-09-26,0.4463650567407443,False
-lake_norman,Lake Norman,2026-09-27,0.4170501612538624,False
-lake_norman,Lake Norman,2026-09-28,0.4111124586036477,False
-lake_norman,Lake Norman,2026-09-29,0.4099008131319699,False
-lake_norman,Lake Norman,2026-09-30,0.4127887515845866,False
-lake_norman,Lake Norman,2026-10-01,0.3803936064595594,False
-lake_norman,Lake Norman,2026-10-02,0.3752053733548899,False
-lake_norman,Lake Norman,2026-10-03,0.5703591121970074,False
-lake_norman,Lake Norman,2026-10-04,0.43998314241683556,False
-lake_norman,Lake Norman,2026-10-05,0.3976672402589143,False
-lake_norman,Lake Norman,2026-10-06,0.4023961588277129,False
-lake_norman,Lake Norman,2026-10-07,0.41649545662012444,False
-lake_norman,Lake Norman,2026-10-08,0.40044185498589113,False
-lake_norman,Lake Norman,2026-10-09,0.3954175792641079,False
-lake_norman,Lake Norman,2026-10-10,0.4500434308057516,False
-lake_norman,Lake Norman,2026-10-11,0.5783974602394439,False
-lake_norman,Lake Norman,2026-10-12,0.3923710255270565,False
-lake_norman,Lake Norman,2026-10-13,0.40335431304575986,False
-lake_norman,Lake Norman,2026-10-14,0.3913349723855553,False
-lake_norman,Lake Norman,2026-10-15,0.38425541547089453,False
-lake_norman,Lake Norman,2026-10-16,0.48153387826501937,False
-lake_norman,Lake Norman,2026-10-17,0.4891486384228844,False
-lake_norman,Lake Norman,2026-10-18,0.5117346459674262,False
-lake_norman,Lake Norman,2026-10-19,0.49229494362117077,False
-lake_norman,Lake Norman,2026-10-20,0.4744174130056736,False
-lake_norman,Lake Norman,2026-10-21,0.4329487903634319,False
-lake_norman,Lake Norman,2026-10-22,0.42689190177589864,False
-lake_norman,Lake Norman,2026-10-23,0.4376656621684507,False
-lake_norman,Lake Norman,2026-10-24,0.4735957779534173,False
-lake_norman,Lake Norman,2026-10-25,0.45680274502047624,False
-lake_norman,Lake Norman,2026-10-26,0.4960590280919709,False
-lake_norman,Lake Norman,2026-10-27,0.43145711935471526,False
-lake_norman,Lake Norman,2026-10-28,0.42827283387305304,False
-lake_norman,Lake Norman,2026-10-29,0.41414571952398654,False
-lake_norman,Lake Norman,2026-10-30,0.44381246363153315,False
-lake_norman,Lake Norman,2026-10-31,0.42129623205471556,False
-lake_norman,Lake Norman,2026-11-01,0.6594631492193637,True
-lake_norman,Lake Norman,2026-11-02,0.4189040406353083,False
-lake_norman,Lake Norman,2026-11-03,0.4163644576960857,False
-lake_norman,Lake Norman,2026-11-04,0.4134114939012282,False
-lake_norman,Lake Norman,2026-11-05,0.4138837690675869,False
-lake_norman,Lake Norman,2026-11-06,0.42843637109436444,False
-lake_norman,Lake Norman,2026-11-07,0.43360169757512174,False
-lake_norman,Lake Norman,2026-11-08,0.4063595673286641,False
-lake_norman,Lake Norman,2026-11-14,0.6051497739510067,True
-lake_norman,Lake Norman,2026-11-15,0.5870743932506083,True
-lake_norman,Lake Norman,2026-11-16,0.5662753749475367,False
-lake_norman,Lake Norman,2026-11-17,0.5848600435571674,True
-lake_norman,Lake Norman,2026-11-18,0.5452045779443978,False
-lake_norman,Lake Norman,2026-11-19,0.5326675439643753,False
-lake_norman,Lake Norman,2026-11-20,0.4632046646747624,False
-lake_tillery,Lake Tillery,2026-05-02,0.5410122096975994,False
-lake_tillery,Lake Tillery,2026-05-03,0.45431273551514134,False
-lake_tillery,Lake Tillery,2026-05-04,0.4784299518603966,False
-lake_tillery,Lake Tillery,2026-05-05,0.4502911356832966,False
-lake_tillery,Lake Tillery,2026-05-06,0.4432205578964866,False
-lake_tillery,Lake Tillery,2026-05-07,0.673876363982351,True
-lake_tillery,Lake Tillery,2026-05-08,0.4984946129870158,False
-lake_tillery,Lake Tillery,2026-05-09,0.4373018884888105,False
-lake_tillery,Lake Tillery,2026-05-10,0.4590947426988389,False
-lake_tillery,Lake Tillery,2026-05-11,0.43973656945500705,False
-lake_tillery,Lake Tillery,2026-05-12,0.4027083270493839,False
-lake_tillery,Lake Tillery,2026-05-13,0.46193726242205935,False
-lake_tillery,Lake Tillery,2026-05-14,0.4830759324536701,False
-lake_tillery,Lake Tillery,2026-05-15,0.466673343955477,False
-lake_tillery,Lake Tillery,2026-05-16,0.5011064020149554,False
-lake_tillery,Lake Tillery,2026-05-17,0.41030594714960783,False
-lake_tillery,Lake Tillery,2026-05-18,0.37619866565258825,False
-lake_tillery,Lake Tillery,2026-05-19,0.3713543063802196,False
-lake_tillery,Lake Tillery,2026-05-20,0.37826544842925297,False
-lake_tillery,Lake Tillery,2026-05-21,0.4076589707374041,False
-lake_tillery,Lake Tillery,2026-05-22,0.4690039977512824,False
-lake_tillery,Lake Tillery,2026-05-23,0.41926144834026524,False
-lake_tillery,Lake Tillery,2026-05-24,0.37365942262793556,False
-lake_tillery,Lake Tillery,2026-05-25,0.4195640994957189,False
-lake_tillery,Lake Tillery,2026-05-26,0.40612105264172726,False
-lake_tillery,Lake Tillery,2026-05-27,0.39228241466270575,False
-lake_tillery,Lake Tillery,2026-05-28,0.3871402281096833,False
-lake_tillery,Lake Tillery,2026-05-29,0.4211728672985567,False
-lake_tillery,Lake Tillery,2026-05-30,0.4994822868605158,False
-lake_tillery,Lake Tillery,2026-05-31,0.5992736949128896,True
-lake_tillery,Lake Tillery,2026-06-01,0.425462993987452,False
-lake_tillery,Lake Tillery,2026-06-02,0.43548507389107544,False
-lake_tillery,Lake Tillery,2026-06-03,0.40968023896793826,False
-lake_tillery,Lake Tillery,2026-06-04,0.4951356402470332,False
-lake_tillery,Lake Tillery,2026-06-05,0.42488797628990826,False
-lake_tillery,Lake Tillery,2026-06-06,0.3837678248514563,False
-lake_tillery,Lake Tillery,2026-06-07,0.3987457463966406,False
-lake_tillery,Lake Tillery,2026-06-08,0.5584191620598504,False
-lake_tillery,Lake Tillery,2026-06-09,0.3745163445855646,False
-lake_tillery,Lake Tillery,2026-06-10,0.3996434064600726,False
-lake_tillery,Lake Tillery,2026-06-11,0.40968369692551687,False
-lake_tillery,Lake Tillery,2026-06-12,0.5083735171362598,False
-lake_tillery,Lake Tillery,2026-06-13,0.4298530189803375,False
-lake_tillery,Lake Tillery,2026-06-14,0.4018476042093823,False
-lake_tillery,Lake Tillery,2026-06-15,0.3825334465687685,False
-lake_tillery,Lake Tillery,2026-06-16,0.36982086108915974,False
-lake_tillery,Lake Tillery,2026-06-17,0.3889422131885095,False
-lake_tillery,Lake Tillery,2026-06-18,0.5366937561756215,False
-lake_tillery,Lake Tillery,2026-06-19,0.5037083553426345,False
-lake_tillery,Lake Tillery,2026-06-20,0.38297916040648694,False
-lake_tillery,Lake Tillery,2026-06-21,0.4026343330549954,False
-lake_tillery,Lake Tillery,2026-06-22,0.3927707026118109,False
-lake_tillery,Lake Tillery,2026-06-23,0.5309273460595868,False
-lake_tillery,Lake Tillery,2026-06-24,0.37306209114907474,False
-lake_tillery,Lake Tillery,2026-06-25,0.3852418632166634,False
-lake_tillery,Lake Tillery,2026-06-26,0.386551498356404,False
-lake_tillery,Lake Tillery,2026-06-27,0.38800092387543855,False
-lake_tillery,Lake Tillery,2026-06-28,0.41178350051350326,False
-lake_tillery,Lake Tillery,2026-06-29,0.36904035139186775,False
-lake_tillery,Lake Tillery,2026-06-30,0.4106418222256259,False
-lake_tillery,Lake Tillery,2026-07-01,0.39084813095556953,False
-lake_tillery,Lake Tillery,2026-07-02,0.4011277151381055,False
-lake_tillery,Lake Tillery,2026-07-03,0.4020368768427048,False
-lake_tillery,Lake Tillery,2026-07-04,0.42524242378811833,False
-lake_tillery,Lake Tillery,2026-07-05,0.4520498860656014,False
-lake_tillery,Lake Tillery,2026-07-06,0.4928418645833245,False
-lake_tillery,Lake Tillery,2026-07-07,0.3970695065977092,False
-lake_tillery,Lake Tillery,2026-07-08,0.4219268841933287,False
-lake_tillery,Lake Tillery,2026-07-09,0.4041971349181732,False
-lake_tillery,Lake Tillery,2026-07-10,0.49676458207663954,False
-lake_tillery,Lake Tillery,2026-07-11,0.5937575342577002,True
-lake_tillery,Lake Tillery,2026-07-12,0.4980859171048792,False
-lake_tillery,Lake Tillery,2026-07-13,0.41633192780658573,False
-lake_tillery,Lake Tillery,2026-07-14,0.37211776373880584,False
-lake_tillery,Lake Tillery,2026-07-15,0.43995836797694593,False
-lake_tillery,Lake Tillery,2026-07-16,0.41701801331648297,False
-lake_tillery,Lake Tillery,2026-07-17,0.479034105488352,False
-lake_tillery,Lake Tillery,2026-07-18,0.4296317461755492,False
-lake_tillery,Lake Tillery,2026-07-19,0.39383345304187867,False
-lake_tillery,Lake Tillery,2026-07-20,0.3936511010479665,False
-lake_tillery,Lake Tillery,2026-07-21,0.5137173021670445,False
-lake_tillery,Lake Tillery,2026-07-22,0.4912238420558497,False
-lake_tillery,Lake Tillery,2026-07-23,0.4350968487576942,False
-lake_tillery,Lake Tillery,2026-07-24,0.3759328286432614,False
-lake_tillery,Lake Tillery,2026-07-25,0.45646126735556486,False
-lake_tillery,Lake Tillery,2026-07-26,0.3868738036341257,False
-lake_tillery,Lake Tillery,2026-07-27,0.41056965366249487,False
-lake_tillery,Lake Tillery,2026-07-28,0.4092834749454526,False
-lake_tillery,Lake Tillery,2026-07-29,0.38130146971627554,False
-lake_tillery,Lake Tillery,2026-07-30,0.37842634017636295,False
-lake_tillery,Lake Tillery,2026-07-31,0.37446674788632167,False
-lake_tillery,Lake Tillery,2026-08-01,0.4989787754971753,False
-lake_tillery,Lake Tillery,2026-08-02,0.4660428380282607,False
-lake_tillery,Lake Tillery,2026-08-03,0.4039328111242153,False
-lake_tillery,Lake Tillery,2026-08-04,0.6042756534767102,True
-lake_tillery,Lake Tillery,2026-08-05,0.38919857696218046,False
-lake_tillery,Lake Tillery,2026-08-06,0.39911129824847735,False
-lake_tillery,Lake Tillery,2026-08-07,0.3711595984109866,False
-lake_tillery,Lake Tillery,2026-08-08,0.3847638921712432,False
-lake_tillery,Lake Tillery,2026-08-09,0.37974916466337544,False
-lake_tillery,Lake Tillery,2026-08-10,0.37602091700369494,False
-lake_tillery,Lake Tillery,2026-08-11,0.39177885561239456,False
-lake_tillery,Lake Tillery,2026-08-12,0.462711535192978,False
-lake_tillery,Lake Tillery,2026-08-13,0.4428035236231531,False
-lake_tillery,Lake Tillery,2026-08-14,0.5132759852148676,False
-lake_tillery,Lake Tillery,2026-08-15,0.4143041667306698,False
-lake_tillery,Lake Tillery,2026-08-16,0.4812765447587164,False
-lake_tillery,Lake Tillery,2026-08-17,0.4177687052595445,False
-lake_tillery,Lake Tillery,2026-08-18,0.4366715749399385,False
-lake_tillery,Lake Tillery,2026-08-19,0.4700806005354805,False
-lake_tillery,Lake Tillery,2026-08-20,0.5559715254772643,False
-lake_tillery,Lake Tillery,2026-08-21,0.6621878373251799,True
-lake_tillery,Lake Tillery,2026-08-22,0.4057521947796835,False
-lake_tillery,Lake Tillery,2026-08-23,0.39423149324567436,False
-lake_tillery,Lake Tillery,2026-08-24,0.3752094293353781,False
-lake_tillery,Lake Tillery,2026-08-25,0.37389968844055754,False
-lake_tillery,Lake Tillery,2026-08-26,0.43409159491030824,False
-lake_tillery,Lake Tillery,2026-08-27,0.5170015722095849,False
-lake_tillery,Lake Tillery,2026-08-28,0.37766649686217096,False
-lake_tillery,Lake Tillery,2026-08-29,0.46828372193547335,False
-lake_tillery,Lake Tillery,2026-08-30,0.3751081709765904,False
-lake_tillery,Lake Tillery,2026-08-31,0.3802461244740365,False
-lake_tillery,Lake Tillery,2026-09-01,0.38866372789782405,False
-lake_tillery,Lake Tillery,2026-09-02,0.4697124340600882,False
-lake_tillery,Lake Tillery,2026-09-03,0.39786057659607416,False
-lake_tillery,Lake Tillery,2026-09-04,0.3999959536384937,False
-lake_tillery,Lake Tillery,2026-09-05,0.4440105298549541,False
-lake_tillery,Lake Tillery,2026-09-06,0.38125504670799726,False
-lake_tillery,Lake Tillery,2026-09-07,0.39015338781999453,False
-lake_tillery,Lake Tillery,2026-09-08,0.3865179808830951,False
-lake_tillery,Lake Tillery,2026-09-09,0.3803323013212752,False
-lake_tillery,Lake Tillery,2026-09-10,0.392749820530357,False
-lake_tillery,Lake Tillery,2026-09-11,0.41441341674399185,False
-lake_tillery,Lake Tillery,2026-09-12,0.46511959386719587,False
-lake_tillery,Lake Tillery,2026-09-13,0.4994416911772639,False
-lake_tillery,Lake Tillery,2026-09-14,0.38188117593983545,False
-lake_tillery,Lake Tillery,2026-09-15,0.42315362603276113,False
-lake_tillery,Lake Tillery,2026-09-16,0.3771562553033611,False
-lake_tillery,Lake Tillery,2026-09-17,0.38692405925354895,False
-lake_tillery,Lake Tillery,2026-09-18,0.4097381185270916,False
-lake_tillery,Lake Tillery,2026-09-19,0.3722306569197797,False
-lake_tillery,Lake Tillery,2026-09-20,0.39751472307830815,False
-lake_tillery,Lake Tillery,2026-09-21,0.3741166057469395,False
-lake_tillery,Lake Tillery,2026-09-22,0.42213546722824596,False
-lake_tillery,Lake Tillery,2026-09-23,0.6797161625852401,True
-lake_tillery,Lake Tillery,2026-09-24,0.5309109576938176,False
-lake_tillery,Lake Tillery,2026-09-25,0.4163024460344821,False
-lake_tillery,Lake Tillery,2026-09-26,0.43974452760853905,False
-lake_tillery,Lake Tillery,2026-09-27,0.5063934280989044,False
-lake_tillery,Lake Tillery,2026-09-28,0.4271356598454789,False
-lake_tillery,Lake Tillery,2026-09-29,0.41324397354184267,False
-lake_tillery,Lake Tillery,2026-09-30,0.39977317302643034,False
-lake_tillery,Lake Tillery,2026-10-01,0.37879926724852636,False
-lake_tillery,Lake Tillery,2026-10-02,0.40670507927623895,False
-lake_tillery,Lake Tillery,2026-10-03,0.5162910621529837,False
-lake_tillery,Lake Tillery,2026-10-04,0.4616812956966466,False
-lake_tillery,Lake Tillery,2026-10-05,0.4075579055464076,False
-lake_tillery,Lake Tillery,2026-10-06,0.41329444142346605,False
-lake_tillery,Lake Tillery,2026-10-07,0.44058166622334966,False
-lake_tillery,Lake Tillery,2026-10-08,0.4135625231134061,False
-lake_tillery,Lake Tillery,2026-10-09,0.4019361373112679,False
-lake_tillery,Lake Tillery,2026-10-10,0.43829770383761857,False
-lake_tillery,Lake Tillery,2026-10-11,0.5439404634895625,False
-lake_tillery,Lake Tillery,2026-10-12,0.4067560851194343,False
-lake_tillery,Lake Tillery,2026-10-13,0.4217765211056273,False
-lake_tillery,Lake Tillery,2026-10-14,0.38607272478807314,False
-lake_tillery,Lake Tillery,2026-10-15,0.39182456579563935,False
-lake_tillery,Lake Tillery,2026-10-16,0.49086154741965893,False
-lake_tillery,Lake Tillery,2026-10-17,0.5130430102533754,False
-lake_tillery,Lake Tillery,2026-10-18,0.496509446993644,False
-lake_tillery,Lake Tillery,2026-10-19,0.48849576776966264,False
-lake_tillery,Lake Tillery,2026-10-20,0.46936040288741526,False
-lake_tillery,Lake Tillery,2026-10-21,0.43306482593229645,False
-lake_tillery,Lake Tillery,2026-10-22,0.4801806684429502,False
-lake_tillery,Lake Tillery,2026-10-23,0.4492189485374147,False
-lake_tillery,Lake Tillery,2026-10-24,0.4606412988562004,False
-lake_tillery,Lake Tillery,2026-10-25,0.4382796940283251,False
-lake_tillery,Lake Tillery,2026-10-26,0.4686824527904751,False
-lake_tillery,Lake Tillery,2026-10-27,0.44427174066206954,False
-lake_tillery,Lake Tillery,2026-10-28,0.4149994246726509,False
-lake_tillery,Lake Tillery,2026-10-29,0.4152806087962621,False
-lake_tillery,Lake Tillery,2026-10-30,0.43911223195111954,False
-lake_tillery,Lake Tillery,2026-10-31,0.4281277561071015,False
-lake_tillery,Lake Tillery,2026-11-01,0.7012413438774018,True
-lake_tillery,Lake Tillery,2026-11-02,0.4280158622148513,False
-lake_tillery,Lake Tillery,2026-11-03,0.4043881066821567,False
-lake_tillery,Lake Tillery,2026-11-04,0.4040908288987222,False
-lake_tillery,Lake Tillery,2026-11-05,0.41932959274147524,False
-lake_tillery,Lake Tillery,2026-11-06,0.4881267809119226,False
-lake_tillery,Lake Tillery,2026-11-07,0.4180290476494188,False
-lake_tillery,Lake Tillery,2026-11-08,0.44874879442274235,False
-lake_tillery,Lake Tillery,2026-11-14,0.5887177502994616,True
-lake_tillery,Lake Tillery,2026-11-15,0.5990632122310916,True
-lake_tillery,Lake Tillery,2026-11-16,0.5651301753616423,False
-lake_tillery,Lake Tillery,2026-11-17,0.5923629264487433,True
-lake_tillery,Lake Tillery,2026-11-18,0.5435245560761952,False
-lake_tillery,Lake Tillery,2026-11-19,0.5155967668849677,False
-lake_tillery,Lake Tillery,2026-11-20,0.4896017560644814,False
+high_rock_lake,High Rock Lake,2026-05-02,0.4867524504051587,False
+high_rock_lake,High Rock Lake,2026-05-03,0.4423581251825687,False
+high_rock_lake,High Rock Lake,2026-05-04,0.497029810340465,False
+high_rock_lake,High Rock Lake,2026-05-05,0.5005028266621596,False
+high_rock_lake,High Rock Lake,2026-05-06,0.466107830807022,False
+high_rock_lake,High Rock Lake,2026-05-07,0.7573391026127717,True
+high_rock_lake,High Rock Lake,2026-05-08,0.4855774919477015,False
+high_rock_lake,High Rock Lake,2026-05-09,0.4308609725219546,False
+high_rock_lake,High Rock Lake,2026-05-10,0.49369694302405176,False
+high_rock_lake,High Rock Lake,2026-05-11,0.4456631687201756,False
+high_rock_lake,High Rock Lake,2026-05-12,0.42206087603208114,False
+high_rock_lake,High Rock Lake,2026-05-13,0.5040285957437887,False
+high_rock_lake,High Rock Lake,2026-05-14,0.49380269499300056,False
+high_rock_lake,High Rock Lake,2026-05-15,0.44862675633991744,False
+high_rock_lake,High Rock Lake,2026-05-16,0.5007800266837061,False
+high_rock_lake,High Rock Lake,2026-05-17,0.41110091795972203,False
+high_rock_lake,High Rock Lake,2026-05-18,0.38538739087039325,False
+high_rock_lake,High Rock Lake,2026-05-19,0.3785519447601863,False
+high_rock_lake,High Rock Lake,2026-05-20,0.3736928112150971,False
+high_rock_lake,High Rock Lake,2026-05-21,0.4394106576692467,False
+high_rock_lake,High Rock Lake,2026-05-22,0.4443624728022989,False
+high_rock_lake,High Rock Lake,2026-05-23,0.4705144627716317,False
+high_rock_lake,High Rock Lake,2026-05-24,0.3765995452696039,False
+high_rock_lake,High Rock Lake,2026-05-25,0.45915246667965764,False
+high_rock_lake,High Rock Lake,2026-05-26,0.3830230568751434,False
+high_rock_lake,High Rock Lake,2026-05-27,0.4188448272338024,False
+high_rock_lake,High Rock Lake,2026-05-28,0.47491757125629275,False
+high_rock_lake,High Rock Lake,2026-05-29,0.42890066261304305,False
+high_rock_lake,High Rock Lake,2026-05-30,0.4770553397000489,False
+high_rock_lake,High Rock Lake,2026-05-31,0.5556049443691198,False
+high_rock_lake,High Rock Lake,2026-06-01,0.4059320558460436,False
+high_rock_lake,High Rock Lake,2026-06-02,0.43533992691563606,False
+high_rock_lake,High Rock Lake,2026-06-03,0.40490829249867033,False
+high_rock_lake,High Rock Lake,2026-06-04,0.4520564373511453,False
+high_rock_lake,High Rock Lake,2026-06-05,0.39046204084196795,False
+high_rock_lake,High Rock Lake,2026-06-06,0.4107092998004593,False
+high_rock_lake,High Rock Lake,2026-06-07,0.41502078560469147,False
+high_rock_lake,High Rock Lake,2026-06-08,0.4238410846854829,False
+high_rock_lake,High Rock Lake,2026-06-09,0.3803117673040134,False
+high_rock_lake,High Rock Lake,2026-06-10,0.40196680209747504,False
+high_rock_lake,High Rock Lake,2026-06-11,0.42614608462348125,False
+high_rock_lake,High Rock Lake,2026-06-12,0.6181068157414267,True
+high_rock_lake,High Rock Lake,2026-06-13,0.4234285071573635,False
+high_rock_lake,High Rock Lake,2026-06-14,0.45675840315997435,False
+high_rock_lake,High Rock Lake,2026-06-15,0.3971685697167048,False
+high_rock_lake,High Rock Lake,2026-06-16,0.3752258177198669,False
+high_rock_lake,High Rock Lake,2026-06-17,0.4034415606683038,False
+high_rock_lake,High Rock Lake,2026-06-18,0.5238700961956706,False
+high_rock_lake,High Rock Lake,2026-06-19,0.5209615549989118,False
+high_rock_lake,High Rock Lake,2026-06-20,0.3821281178583699,False
+high_rock_lake,High Rock Lake,2026-06-21,0.39481734101869076,False
+high_rock_lake,High Rock Lake,2026-06-22,0.41521299192377203,False
+high_rock_lake,High Rock Lake,2026-06-23,0.4159282224520772,False
+high_rock_lake,High Rock Lake,2026-06-24,0.3827037110425069,False
+high_rock_lake,High Rock Lake,2026-06-25,0.3794346451506396,False
+high_rock_lake,High Rock Lake,2026-06-26,0.40668038180566685,False
+high_rock_lake,High Rock Lake,2026-06-27,0.3846626589280738,False
+high_rock_lake,High Rock Lake,2026-06-28,0.4155351908520527,False
+high_rock_lake,High Rock Lake,2026-06-29,0.3790846422926089,False
+high_rock_lake,High Rock Lake,2026-06-30,0.4255949584887395,False
+high_rock_lake,High Rock Lake,2026-07-01,0.40317951348959274,False
+high_rock_lake,High Rock Lake,2026-07-02,0.4159587211797056,False
+high_rock_lake,High Rock Lake,2026-07-03,0.4146046482031721,False
+high_rock_lake,High Rock Lake,2026-07-04,0.4443045860898347,False
+high_rock_lake,High Rock Lake,2026-07-05,0.505688914693885,False
+high_rock_lake,High Rock Lake,2026-07-06,0.4609573154520995,False
+high_rock_lake,High Rock Lake,2026-07-07,0.5124767327972372,False
+high_rock_lake,High Rock Lake,2026-07-08,0.42272489364125754,False
+high_rock_lake,High Rock Lake,2026-07-09,0.42006778183043864,False
+high_rock_lake,High Rock Lake,2026-07-10,0.5534418958188813,False
+high_rock_lake,High Rock Lake,2026-07-11,0.48626879200256734,False
+high_rock_lake,High Rock Lake,2026-07-12,0.44381772621167515,False
+high_rock_lake,High Rock Lake,2026-07-13,0.6181159483723648,True
+high_rock_lake,High Rock Lake,2026-07-14,0.3749544997090942,False
+high_rock_lake,High Rock Lake,2026-07-15,0.38805037530632874,False
+high_rock_lake,High Rock Lake,2026-07-16,0.43007171980218467,False
+high_rock_lake,High Rock Lake,2026-07-17,0.5271238291545179,False
+high_rock_lake,High Rock Lake,2026-07-18,0.44545165515192087,False
+high_rock_lake,High Rock Lake,2026-07-19,0.43328022641781055,False
+high_rock_lake,High Rock Lake,2026-07-20,0.3855547393008713,False
+high_rock_lake,High Rock Lake,2026-07-21,0.49234962021218653,False
+high_rock_lake,High Rock Lake,2026-07-22,0.5263908263724241,False
+high_rock_lake,High Rock Lake,2026-07-23,0.4151782470792464,False
+high_rock_lake,High Rock Lake,2026-07-24,0.37347101059574034,False
+high_rock_lake,High Rock Lake,2026-07-25,0.5510706542620215,False
+high_rock_lake,High Rock Lake,2026-07-26,0.3853369856251001,False
+high_rock_lake,High Rock Lake,2026-07-27,0.4088293846399522,False
+high_rock_lake,High Rock Lake,2026-07-28,0.5764479437542989,False
+high_rock_lake,High Rock Lake,2026-07-29,0.38541792215699455,False
+high_rock_lake,High Rock Lake,2026-07-30,0.3806881087924211,False
+high_rock_lake,High Rock Lake,2026-07-31,0.38194863710280286,False
+high_rock_lake,High Rock Lake,2026-08-01,0.437363134496242,False
+high_rock_lake,High Rock Lake,2026-08-02,0.47195136483802913,False
+high_rock_lake,High Rock Lake,2026-08-03,0.3898509227958572,False
+high_rock_lake,High Rock Lake,2026-08-04,0.543927187989321,False
+high_rock_lake,High Rock Lake,2026-08-05,0.4166841067890767,False
+high_rock_lake,High Rock Lake,2026-08-06,0.38890443420084264,False
+high_rock_lake,High Rock Lake,2026-08-07,0.39305973074773065,False
+high_rock_lake,High Rock Lake,2026-08-08,0.3974728313130431,False
+high_rock_lake,High Rock Lake,2026-08-09,0.3939258246734167,False
+high_rock_lake,High Rock Lake,2026-08-10,0.3703530677190569,False
+high_rock_lake,High Rock Lake,2026-08-11,0.4174673042736688,False
+high_rock_lake,High Rock Lake,2026-08-12,0.482677804199954,False
+high_rock_lake,High Rock Lake,2026-08-13,0.4359356486573918,False
+high_rock_lake,High Rock Lake,2026-08-14,0.5291893232542739,False
+high_rock_lake,High Rock Lake,2026-08-15,0.41056510137222546,False
+high_rock_lake,High Rock Lake,2026-08-16,0.45561127942729773,False
+high_rock_lake,High Rock Lake,2026-08-17,0.38797110773042814,False
+high_rock_lake,High Rock Lake,2026-08-18,0.41224788772973175,False
+high_rock_lake,High Rock Lake,2026-08-19,0.4342647624332329,False
+high_rock_lake,High Rock Lake,2026-08-20,0.4742522760928449,False
+high_rock_lake,High Rock Lake,2026-08-21,0.6606046648081247,True
+high_rock_lake,High Rock Lake,2026-08-22,0.4705547570357576,False
+high_rock_lake,High Rock Lake,2026-08-23,0.4130616351060222,False
+high_rock_lake,High Rock Lake,2026-08-24,0.37466448010988757,False
+high_rock_lake,High Rock Lake,2026-08-25,0.3744259208635094,False
+high_rock_lake,High Rock Lake,2026-08-26,0.42982419960853,False
+high_rock_lake,High Rock Lake,2026-08-27,0.5427994608768143,False
+high_rock_lake,High Rock Lake,2026-08-28,0.3832868786082183,False
+high_rock_lake,High Rock Lake,2026-08-29,0.4011723832605112,False
+high_rock_lake,High Rock Lake,2026-08-30,0.37712536811089203,False
+high_rock_lake,High Rock Lake,2026-08-31,0.3854964574503388,False
+high_rock_lake,High Rock Lake,2026-09-01,0.3993296388002925,False
+high_rock_lake,High Rock Lake,2026-09-02,0.42756197735946505,False
+high_rock_lake,High Rock Lake,2026-09-03,0.4128541313090016,False
+high_rock_lake,High Rock Lake,2026-09-04,0.4078113757385452,False
+high_rock_lake,High Rock Lake,2026-09-05,0.47499749785961837,False
+high_rock_lake,High Rock Lake,2026-09-06,0.4107022739235225,False
+high_rock_lake,High Rock Lake,2026-09-07,0.37870368706169283,False
+high_rock_lake,High Rock Lake,2026-09-08,0.4015985728044095,False
+high_rock_lake,High Rock Lake,2026-09-09,0.3838116570244277,False
+high_rock_lake,High Rock Lake,2026-09-10,0.38806104478345793,False
+high_rock_lake,High Rock Lake,2026-09-11,0.4178611316759842,False
+high_rock_lake,High Rock Lake,2026-09-12,0.43053593940558577,False
+high_rock_lake,High Rock Lake,2026-09-13,0.4021603552766023,False
+high_rock_lake,High Rock Lake,2026-09-14,0.4050963347360376,False
+high_rock_lake,High Rock Lake,2026-09-15,0.385698053366341,False
+high_rock_lake,High Rock Lake,2026-09-16,0.386848010286019,False
+high_rock_lake,High Rock Lake,2026-09-17,0.39436408508955356,False
+high_rock_lake,High Rock Lake,2026-09-18,0.4140096425105146,False
+high_rock_lake,High Rock Lake,2026-09-19,0.4086883309888025,False
+high_rock_lake,High Rock Lake,2026-09-20,0.377633933721903,False
+high_rock_lake,High Rock Lake,2026-09-21,0.42422173373205624,False
+high_rock_lake,High Rock Lake,2026-09-22,0.43952987029355356,False
+high_rock_lake,High Rock Lake,2026-09-23,0.5758237810435289,False
+high_rock_lake,High Rock Lake,2026-09-24,0.5550857759530217,False
+high_rock_lake,High Rock Lake,2026-09-25,0.41159310658359705,False
+high_rock_lake,High Rock Lake,2026-09-26,0.439300206552679,False
+high_rock_lake,High Rock Lake,2026-09-27,0.4341118172003679,False
+high_rock_lake,High Rock Lake,2026-09-28,0.4034334891197927,False
+high_rock_lake,High Rock Lake,2026-09-29,0.4158528300359152,False
+high_rock_lake,High Rock Lake,2026-09-30,0.39986164594595774,False
+high_rock_lake,High Rock Lake,2026-10-01,0.38079119042854925,False
+high_rock_lake,High Rock Lake,2026-10-02,0.3777579560377259,False
+high_rock_lake,High Rock Lake,2026-10-03,0.6330500125122303,True
+high_rock_lake,High Rock Lake,2026-10-04,0.47920099585334247,False
+high_rock_lake,High Rock Lake,2026-10-05,0.3989439399135225,False
+high_rock_lake,High Rock Lake,2026-10-06,0.40762217822111446,False
+high_rock_lake,High Rock Lake,2026-10-07,0.4163744827786561,False
+high_rock_lake,High Rock Lake,2026-10-08,0.39533560916767313,False
+high_rock_lake,High Rock Lake,2026-10-09,0.39815344907881167,False
+high_rock_lake,High Rock Lake,2026-10-10,0.4136391260224316,False
+high_rock_lake,High Rock Lake,2026-10-11,0.5845028805564699,True
+high_rock_lake,High Rock Lake,2026-10-12,0.40006762236760063,False
+high_rock_lake,High Rock Lake,2026-10-13,0.41290743891020426,False
+high_rock_lake,High Rock Lake,2026-10-14,0.38639732392231246,False
+high_rock_lake,High Rock Lake,2026-10-15,0.4061914133654538,False
+high_rock_lake,High Rock Lake,2026-10-16,0.4862599312064449,False
+high_rock_lake,High Rock Lake,2026-10-17,0.5357341730178605,False
+high_rock_lake,High Rock Lake,2026-10-18,0.5112603300104402,False
+high_rock_lake,High Rock Lake,2026-10-19,0.46751806464384466,False
+high_rock_lake,High Rock Lake,2026-10-20,0.45922144106896906,False
+high_rock_lake,High Rock Lake,2026-10-21,0.4329507353800457,False
+high_rock_lake,High Rock Lake,2026-10-22,0.45360435594509296,False
+high_rock_lake,High Rock Lake,2026-10-23,0.43444434072294275,False
+high_rock_lake,High Rock Lake,2026-10-24,0.4645391397002919,False
+high_rock_lake,High Rock Lake,2026-10-25,0.45199250776170496,False
+high_rock_lake,High Rock Lake,2026-10-26,0.4747766668138775,False
+high_rock_lake,High Rock Lake,2026-10-27,0.4281715389601511,False
+high_rock_lake,High Rock Lake,2026-10-28,0.41896036970391376,False
+high_rock_lake,High Rock Lake,2026-10-29,0.4170045195498876,False
+high_rock_lake,High Rock Lake,2026-10-30,0.48834258895671445,False
+high_rock_lake,High Rock Lake,2026-10-31,0.4124728218978849,False
+high_rock_lake,High Rock Lake,2026-11-01,0.4808551524016304,False
+high_rock_lake,High Rock Lake,2026-11-02,0.4282007714514914,False
+high_rock_lake,High Rock Lake,2026-11-03,0.41650942405706537,False
+high_rock_lake,High Rock Lake,2026-11-04,0.40453898920224735,False
+high_rock_lake,High Rock Lake,2026-11-05,0.4335567635718697,False
+high_rock_lake,High Rock Lake,2026-11-06,0.48301364115926393,False
+high_rock_lake,High Rock Lake,2026-11-07,0.4135291287465177,False
+high_rock_lake,High Rock Lake,2026-11-08,0.45428730480904356,False
+high_rock_lake,High Rock Lake,2026-11-14,0.6077143383045535,True
+high_rock_lake,High Rock Lake,2026-11-15,0.6061852530796881,True
+high_rock_lake,High Rock Lake,2026-11-16,0.5829741820977851,False
+high_rock_lake,High Rock Lake,2026-11-17,0.5947248044805266,True
+high_rock_lake,High Rock Lake,2026-11-18,0.5352020275463266,False
+high_rock_lake,High Rock Lake,2026-11-19,0.48922790193204585,False
+high_rock_lake,High Rock Lake,2026-11-20,0.45280907699739126,False
+high_rock_lake,High Rock Lake,2026-11-21,0.6275394238974891,True
+lake_norman,Lake Norman,2026-05-02,0.4604424745390837,False
+lake_norman,Lake Norman,2026-05-03,0.44861823045605165,False
+lake_norman,Lake Norman,2026-05-04,0.48810956691741103,False
+lake_norman,Lake Norman,2026-05-05,0.5033710884054909,False
+lake_norman,Lake Norman,2026-05-06,0.46829069079098656,False
+lake_norman,Lake Norman,2026-05-07,0.6907078984443428,True
+lake_norman,Lake Norman,2026-05-08,0.4540055191019377,False
+lake_norman,Lake Norman,2026-05-09,0.4155327381684267,False
+lake_norman,Lake Norman,2026-05-10,0.49881332498585074,False
+lake_norman,Lake Norman,2026-05-11,0.45390183270273593,False
+lake_norman,Lake Norman,2026-05-12,0.41075212785678045,False
+lake_norman,Lake Norman,2026-05-13,0.48839854077917266,False
+lake_norman,Lake Norman,2026-05-14,0.48195284315350223,False
+lake_norman,Lake Norman,2026-05-15,0.4415319436572126,False
+lake_norman,Lake Norman,2026-05-16,0.4781131268955086,False
+lake_norman,Lake Norman,2026-05-17,0.41994914897123753,False
+lake_norman,Lake Norman,2026-05-18,0.3755043205850431,False
+lake_norman,Lake Norman,2026-05-19,0.3753516437642799,False
+lake_norman,Lake Norman,2026-05-20,0.36758021191814133,False
+lake_norman,Lake Norman,2026-05-21,0.4173538177068958,False
+lake_norman,Lake Norman,2026-05-22,0.43589404890823713,False
+lake_norman,Lake Norman,2026-05-23,0.41786359492576125,False
+lake_norman,Lake Norman,2026-05-24,0.3902911558537015,False
+lake_norman,Lake Norman,2026-05-25,0.6878933436030013,True
+lake_norman,Lake Norman,2026-05-26,0.5341570083332305,False
+lake_norman,Lake Norman,2026-05-27,0.40226131397654075,False
+lake_norman,Lake Norman,2026-05-28,0.38553288687928244,False
+lake_norman,Lake Norman,2026-05-29,0.376069704303578,False
+lake_norman,Lake Norman,2026-05-30,0.488607871811022,False
+lake_norman,Lake Norman,2026-05-31,0.5430528701375305,False
+lake_norman,Lake Norman,2026-06-01,0.4277690147286229,False
+lake_norman,Lake Norman,2026-06-02,0.42384850449301753,False
+lake_norman,Lake Norman,2026-06-03,0.4097057946166818,False
+lake_norman,Lake Norman,2026-06-04,0.4442332857038423,False
+lake_norman,Lake Norman,2026-06-05,0.3846713059753095,False
+lake_norman,Lake Norman,2026-06-06,0.39005178303209287,False
+lake_norman,Lake Norman,2026-06-07,0.3968737940250909,False
+lake_norman,Lake Norman,2026-06-08,0.3676833149888842,False
+lake_norman,Lake Norman,2026-06-09,0.6403376340582239,True
+lake_norman,Lake Norman,2026-06-10,0.38425270834548647,False
+lake_norman,Lake Norman,2026-06-11,0.4255315868650526,False
+lake_norman,Lake Norman,2026-06-12,0.5710263884309782,False
+lake_norman,Lake Norman,2026-06-13,0.4256109291407871,False
+lake_norman,Lake Norman,2026-06-14,0.4204285764856313,False
+lake_norman,Lake Norman,2026-06-15,0.38176427584753125,False
+lake_norman,Lake Norman,2026-06-16,0.37819758058567104,False
+lake_norman,Lake Norman,2026-06-17,0.394810689681609,False
+lake_norman,Lake Norman,2026-06-18,0.499676057413419,False
+lake_norman,Lake Norman,2026-06-19,0.450976565231121,False
+lake_norman,Lake Norman,2026-06-20,0.3766948375761314,False
+lake_norman,Lake Norman,2026-06-21,0.388751754331161,False
+lake_norman,Lake Norman,2026-06-22,0.45336386165339476,False
+lake_norman,Lake Norman,2026-06-23,0.4417934885473591,False
+lake_norman,Lake Norman,2026-06-24,0.38096920502351406,False
+lake_norman,Lake Norman,2026-06-25,0.37534502866746294,False
+lake_norman,Lake Norman,2026-06-26,0.3903276074575934,False
+lake_norman,Lake Norman,2026-06-27,0.3944905576849725,False
+lake_norman,Lake Norman,2026-06-28,0.4228932210734988,False
+lake_norman,Lake Norman,2026-06-29,0.36780418656691566,False
+lake_norman,Lake Norman,2026-06-30,0.3985867718519718,False
+lake_norman,Lake Norman,2026-07-01,0.41675778363573557,False
+lake_norman,Lake Norman,2026-07-02,0.4134323053923513,False
+lake_norman,Lake Norman,2026-07-03,0.4144771053234277,False
+lake_norman,Lake Norman,2026-07-04,0.4371750130052495,False
+lake_norman,Lake Norman,2026-07-05,0.47433663203593707,False
+lake_norman,Lake Norman,2026-07-06,0.3893641446596539,False
+lake_norman,Lake Norman,2026-07-07,0.40540205201253166,False
+lake_norman,Lake Norman,2026-07-08,0.47773943138147057,False
+lake_norman,Lake Norman,2026-07-09,0.443051197670058,False
+lake_norman,Lake Norman,2026-07-10,0.6192029424602464,True
+lake_norman,Lake Norman,2026-07-11,0.4671969473353751,False
+lake_norman,Lake Norman,2026-07-12,0.42298350765252063,False
+lake_norman,Lake Norman,2026-07-13,0.5449820933949766,False
+lake_norman,Lake Norman,2026-07-14,0.3955365447686466,False
+lake_norman,Lake Norman,2026-07-15,0.3852741046342091,False
+lake_norman,Lake Norman,2026-07-16,0.4460867027063696,False
+lake_norman,Lake Norman,2026-07-17,0.5087260983489251,False
+lake_norman,Lake Norman,2026-07-18,0.4646161993979197,False
+lake_norman,Lake Norman,2026-07-19,0.38767888738601086,False
+lake_norman,Lake Norman,2026-07-20,0.42276907858930135,False
+lake_norman,Lake Norman,2026-07-21,0.5488468654637744,False
+lake_norman,Lake Norman,2026-07-22,0.5066237288700157,False
+lake_norman,Lake Norman,2026-07-23,0.4021123344541166,False
+lake_norman,Lake Norman,2026-07-24,0.3728876555000407,False
+lake_norman,Lake Norman,2026-07-25,0.47633128103980865,False
+lake_norman,Lake Norman,2026-07-26,0.39573573600620676,False
+lake_norman,Lake Norman,2026-07-27,0.41394667603521285,False
+lake_norman,Lake Norman,2026-07-28,0.4642478044668315,False
+lake_norman,Lake Norman,2026-07-29,0.38766880889302513,False
+lake_norman,Lake Norman,2026-07-30,0.37358596636515695,False
+lake_norman,Lake Norman,2026-07-31,0.3911728621239097,False
+lake_norman,Lake Norman,2026-08-01,0.3705327208209262,False
+lake_norman,Lake Norman,2026-08-02,0.4369162069232736,False
+lake_norman,Lake Norman,2026-08-03,0.37363716714056644,False
+lake_norman,Lake Norman,2026-08-04,0.4149960298750284,False
+lake_norman,Lake Norman,2026-08-05,0.4430067013234617,False
+lake_norman,Lake Norman,2026-08-06,0.37734423320703764,False
+lake_norman,Lake Norman,2026-08-07,0.38170773520408546,False
+lake_norman,Lake Norman,2026-08-08,0.3823276997845703,False
+lake_norman,Lake Norman,2026-08-09,0.38411574588903763,False
+lake_norman,Lake Norman,2026-08-10,0.37357561440694564,False
+lake_norman,Lake Norman,2026-08-11,0.3873876706923272,False
+lake_norman,Lake Norman,2026-08-12,0.4226572947404324,False
+lake_norman,Lake Norman,2026-08-13,0.4249791456496031,False
+lake_norman,Lake Norman,2026-08-14,0.4853150818254803,False
+lake_norman,Lake Norman,2026-08-15,0.41508757408070673,False
+lake_norman,Lake Norman,2026-08-16,0.48021982937351193,False
+lake_norman,Lake Norman,2026-08-17,0.4324816246463047,False
+lake_norman,Lake Norman,2026-08-18,0.41135779677126727,False
+lake_norman,Lake Norman,2026-08-19,0.40610092303128714,False
+lake_norman,Lake Norman,2026-08-20,0.4977966739460768,False
+lake_norman,Lake Norman,2026-08-21,0.4574647148412911,False
+lake_norman,Lake Norman,2026-08-22,0.4171480090588792,False
+lake_norman,Lake Norman,2026-08-23,0.4139415429786743,False
+lake_norman,Lake Norman,2026-08-24,0.37270544823787877,False
+lake_norman,Lake Norman,2026-08-25,0.37808533801625543,False
+lake_norman,Lake Norman,2026-08-26,0.4163557620900121,False
+lake_norman,Lake Norman,2026-08-27,0.4851045799949164,False
+lake_norman,Lake Norman,2026-08-28,0.40454321525478437,False
+lake_norman,Lake Norman,2026-08-29,0.3971098439505606,False
+lake_norman,Lake Norman,2026-08-30,0.3881240256878777,False
+lake_norman,Lake Norman,2026-08-31,0.4263473508699648,False
+lake_norman,Lake Norman,2026-09-01,0.4213785713351649,False
+lake_norman,Lake Norman,2026-09-02,0.4637939149642069,False
+lake_norman,Lake Norman,2026-09-03,0.40541458567577005,False
+lake_norman,Lake Norman,2026-09-04,0.40042767144842933,False
+lake_norman,Lake Norman,2026-09-05,0.5523528552051916,False
+lake_norman,Lake Norman,2026-09-06,0.41243988063419956,False
+lake_norman,Lake Norman,2026-09-07,0.3865407503511389,False
+lake_norman,Lake Norman,2026-09-08,0.37529140523605603,False
+lake_norman,Lake Norman,2026-09-09,0.3895691318911936,False
+lake_norman,Lake Norman,2026-09-10,0.39663115233088025,False
+lake_norman,Lake Norman,2026-09-11,0.4415441699815838,False
+lake_norman,Lake Norman,2026-09-12,0.44297483892487244,False
+lake_norman,Lake Norman,2026-09-13,0.3933685821121014,False
+lake_norman,Lake Norman,2026-09-14,0.39920236079256566,False
+lake_norman,Lake Norman,2026-09-15,0.40258315531793015,False
+lake_norman,Lake Norman,2026-09-16,0.37211401654943305,False
+lake_norman,Lake Norman,2026-09-17,0.40948765756854705,False
+lake_norman,Lake Norman,2026-09-18,0.40698418068963366,False
+lake_norman,Lake Norman,2026-09-19,0.3771438524689157,False
+lake_norman,Lake Norman,2026-09-20,0.3770581513167408,False
+lake_norman,Lake Norman,2026-09-21,0.39918234482832987,False
+lake_norman,Lake Norman,2026-09-22,0.5884365253931322,True
+lake_norman,Lake Norman,2026-09-23,0.6381880595879359,True
+lake_norman,Lake Norman,2026-09-24,0.5468226472019165,False
+lake_norman,Lake Norman,2026-09-25,0.41528171153118887,False
+lake_norman,Lake Norman,2026-09-26,0.4387664451483307,False
+lake_norman,Lake Norman,2026-09-27,0.421850493443791,False
+lake_norman,Lake Norman,2026-09-28,0.4148704503859042,False
+lake_norman,Lake Norman,2026-09-29,0.4100072928737603,False
+lake_norman,Lake Norman,2026-09-30,0.4016176930843477,False
+lake_norman,Lake Norman,2026-10-01,0.3742108420660736,False
+lake_norman,Lake Norman,2026-10-02,0.37310349936717957,False
+lake_norman,Lake Norman,2026-10-03,0.5836129541759985,False
+lake_norman,Lake Norman,2026-10-04,0.4454989629563936,False
+lake_norman,Lake Norman,2026-10-05,0.3953344274000503,False
+lake_norman,Lake Norman,2026-10-06,0.4008449097530368,False
+lake_norman,Lake Norman,2026-10-07,0.4186228042744494,False
+lake_norman,Lake Norman,2026-10-08,0.39315921558374634,False
+lake_norman,Lake Norman,2026-10-09,0.3950868172926867,False
+lake_norman,Lake Norman,2026-10-10,0.4516023364062734,False
+lake_norman,Lake Norman,2026-10-11,0.5768927514334478,False
+lake_norman,Lake Norman,2026-10-12,0.39429917040373624,False
+lake_norman,Lake Norman,2026-10-13,0.40187049672998054,False
+lake_norman,Lake Norman,2026-10-14,0.38042394747044905,False
+lake_norman,Lake Norman,2026-10-15,0.38699220484778457,False
+lake_norman,Lake Norman,2026-10-16,0.49014228963159934,False
+lake_norman,Lake Norman,2026-10-17,0.4740239188129498,False
+lake_norman,Lake Norman,2026-10-18,0.5111990925817298,False
+lake_norman,Lake Norman,2026-10-19,0.49107115879742474,False
+lake_norman,Lake Norman,2026-10-20,0.46480700107876527,False
+lake_norman,Lake Norman,2026-10-21,0.42794089217073766,False
+lake_norman,Lake Norman,2026-10-22,0.42424129599641797,False
+lake_norman,Lake Norman,2026-10-23,0.43389711670171555,False
+lake_norman,Lake Norman,2026-10-24,0.4694130717339079,False
+lake_norman,Lake Norman,2026-10-25,0.44946961102546035,False
+lake_norman,Lake Norman,2026-10-26,0.5065672211607338,False
+lake_norman,Lake Norman,2026-10-27,0.42626722290341085,False
+lake_norman,Lake Norman,2026-10-28,0.4161796277109478,False
+lake_norman,Lake Norman,2026-10-29,0.4118037401885717,False
+lake_norman,Lake Norman,2026-10-30,0.43921583622273186,False
+lake_norman,Lake Norman,2026-10-31,0.4113754865154539,False
+lake_norman,Lake Norman,2026-11-01,0.6503091634683569,True
+lake_norman,Lake Norman,2026-11-02,0.41297125320854555,False
+lake_norman,Lake Norman,2026-11-03,0.4127912631976672,False
+lake_norman,Lake Norman,2026-11-04,0.4140311312511134,False
+lake_norman,Lake Norman,2026-11-05,0.4128360991701519,False
+lake_norman,Lake Norman,2026-11-06,0.42961446786422586,False
+lake_norman,Lake Norman,2026-11-07,0.4266199101202938,False
+lake_norman,Lake Norman,2026-11-08,0.40500605597571837,False
+lake_norman,Lake Norman,2026-11-14,0.6020070102896425,True
+lake_norman,Lake Norman,2026-11-15,0.5961510795332449,True
+lake_norman,Lake Norman,2026-11-16,0.5825046651025669,False
+lake_norman,Lake Norman,2026-11-17,0.5653212425700115,False
+lake_norman,Lake Norman,2026-11-18,0.5251287251527041,False
+lake_norman,Lake Norman,2026-11-19,0.4796748717023171,False
+lake_norman,Lake Norman,2026-11-20,0.44998175856695966,False
+lake_norman,Lake Norman,2026-11-21,0.6300134774328168,True
+lake_tillery,Lake Tillery,2026-05-02,0.5323690906161314,False
+lake_tillery,Lake Tillery,2026-05-03,0.44489618100907036,False
+lake_tillery,Lake Tillery,2026-05-04,0.4594920224451601,False
+lake_tillery,Lake Tillery,2026-05-05,0.43918951805648043,False
+lake_tillery,Lake Tillery,2026-05-06,0.43209962802799545,False
+lake_tillery,Lake Tillery,2026-05-07,0.6609787415257364,True
+lake_tillery,Lake Tillery,2026-05-08,0.4896148548421029,False
+lake_tillery,Lake Tillery,2026-05-09,0.4261554996848045,False
+lake_tillery,Lake Tillery,2026-05-10,0.45979896559806926,False
+lake_tillery,Lake Tillery,2026-05-11,0.430798584335928,False
+lake_tillery,Lake Tillery,2026-05-12,0.4065475434006298,False
+lake_tillery,Lake Tillery,2026-05-13,0.454168682136149,False
+lake_tillery,Lake Tillery,2026-05-14,0.476947612173631,False
+lake_tillery,Lake Tillery,2026-05-15,0.45187610905182696,False
+lake_tillery,Lake Tillery,2026-05-16,0.4758060791190862,False
+lake_tillery,Lake Tillery,2026-05-17,0.4073709408644546,False
+lake_tillery,Lake Tillery,2026-05-18,0.3770876357166127,False
+lake_tillery,Lake Tillery,2026-05-19,0.37539900670420107,False
+lake_tillery,Lake Tillery,2026-05-20,0.3760069054065189,False
+lake_tillery,Lake Tillery,2026-05-21,0.3990298029210053,False
+lake_tillery,Lake Tillery,2026-05-22,0.45512014983321725,False
+lake_tillery,Lake Tillery,2026-05-23,0.41892977756947075,False
+lake_tillery,Lake Tillery,2026-05-24,0.3691833771168691,False
+lake_tillery,Lake Tillery,2026-05-25,0.40907787180370553,False
+lake_tillery,Lake Tillery,2026-05-26,0.39615919896589635,False
+lake_tillery,Lake Tillery,2026-05-27,0.3836566069371158,False
+lake_tillery,Lake Tillery,2026-05-28,0.3760042816372969,False
+lake_tillery,Lake Tillery,2026-05-29,0.4091480666920266,False
+lake_tillery,Lake Tillery,2026-05-30,0.4931955784858011,False
+lake_tillery,Lake Tillery,2026-05-31,0.5716819600425318,False
+lake_tillery,Lake Tillery,2026-06-01,0.42105164746177115,False
+lake_tillery,Lake Tillery,2026-06-02,0.42196658910693885,False
+lake_tillery,Lake Tillery,2026-06-03,0.40068231803586185,False
+lake_tillery,Lake Tillery,2026-06-04,0.48287822683232856,False
+lake_tillery,Lake Tillery,2026-06-05,0.41383846342949404,False
+lake_tillery,Lake Tillery,2026-06-06,0.37585393248886845,False
+lake_tillery,Lake Tillery,2026-06-07,0.39732064715691073,False
+lake_tillery,Lake Tillery,2026-06-08,0.5656558678119157,False
+lake_tillery,Lake Tillery,2026-06-09,0.3698689118782878,False
+lake_tillery,Lake Tillery,2026-06-10,0.3946994648911994,False
+lake_tillery,Lake Tillery,2026-06-11,0.4106600791590148,False
+lake_tillery,Lake Tillery,2026-06-12,0.4997811968166586,False
+lake_tillery,Lake Tillery,2026-06-13,0.429800165110436,False
+lake_tillery,Lake Tillery,2026-06-14,0.40578529497358756,False
+lake_tillery,Lake Tillery,2026-06-15,0.3769805721842425,False
+lake_tillery,Lake Tillery,2026-06-16,0.3648997161290999,False
+lake_tillery,Lake Tillery,2026-06-17,0.3828110512514394,False
+lake_tillery,Lake Tillery,2026-06-18,0.5363498551271169,False
+lake_tillery,Lake Tillery,2026-06-19,0.47946945667281116,False
+lake_tillery,Lake Tillery,2026-06-20,0.37654821697015656,False
+lake_tillery,Lake Tillery,2026-06-21,0.40277203338386236,False
+lake_tillery,Lake Tillery,2026-06-22,0.3911380279195446,False
+lake_tillery,Lake Tillery,2026-06-23,0.515576024417197,False
+lake_tillery,Lake Tillery,2026-06-24,0.373165266087838,False
+lake_tillery,Lake Tillery,2026-06-25,0.38564201633334283,False
+lake_tillery,Lake Tillery,2026-06-26,0.3887298266923004,False
+lake_tillery,Lake Tillery,2026-06-27,0.39216951939166467,False
+lake_tillery,Lake Tillery,2026-06-28,0.4045720397393139,False
+lake_tillery,Lake Tillery,2026-06-29,0.36773062613243473,False
+lake_tillery,Lake Tillery,2026-06-30,0.4072025618259545,False
+lake_tillery,Lake Tillery,2026-07-01,0.3776209404516332,False
+lake_tillery,Lake Tillery,2026-07-02,0.3863980486052927,False
+lake_tillery,Lake Tillery,2026-07-03,0.39457054707022104,False
+lake_tillery,Lake Tillery,2026-07-04,0.41177536578851914,False
+lake_tillery,Lake Tillery,2026-07-05,0.4468018759462863,False
+lake_tillery,Lake Tillery,2026-07-06,0.4970782428899746,False
+lake_tillery,Lake Tillery,2026-07-07,0.39550713182454783,False
+lake_tillery,Lake Tillery,2026-07-08,0.405769457056438,False
+lake_tillery,Lake Tillery,2026-07-09,0.3999151570265808,False
+lake_tillery,Lake Tillery,2026-07-10,0.48630093984505685,False
+lake_tillery,Lake Tillery,2026-07-11,0.573604593309418,True
+lake_tillery,Lake Tillery,2026-07-12,0.4827588776080536,False
+lake_tillery,Lake Tillery,2026-07-13,0.40729384278529046,False
+lake_tillery,Lake Tillery,2026-07-14,0.36584848941152776,False
+lake_tillery,Lake Tillery,2026-07-15,0.43804089553075604,False
+lake_tillery,Lake Tillery,2026-07-16,0.4022639702965888,False
+lake_tillery,Lake Tillery,2026-07-17,0.45905868026491214,False
+lake_tillery,Lake Tillery,2026-07-18,0.41802612714953197,False
+lake_tillery,Lake Tillery,2026-07-19,0.3931536478545379,False
+lake_tillery,Lake Tillery,2026-07-20,0.39438597511732587,False
+lake_tillery,Lake Tillery,2026-07-21,0.5074294524579073,False
+lake_tillery,Lake Tillery,2026-07-22,0.48737860362973484,False
+lake_tillery,Lake Tillery,2026-07-23,0.4221986507757858,False
+lake_tillery,Lake Tillery,2026-07-24,0.3704391067450683,False
+lake_tillery,Lake Tillery,2026-07-25,0.4566308300137467,False
+lake_tillery,Lake Tillery,2026-07-26,0.3872669208043357,False
+lake_tillery,Lake Tillery,2026-07-27,0.40819442283031726,False
+lake_tillery,Lake Tillery,2026-07-28,0.40792508678948375,False
+lake_tillery,Lake Tillery,2026-07-29,0.3781124092544417,False
+lake_tillery,Lake Tillery,2026-07-30,0.37037236031850174,False
+lake_tillery,Lake Tillery,2026-07-31,0.3694127885810002,False
+lake_tillery,Lake Tillery,2026-08-01,0.4845693555461599,False
+lake_tillery,Lake Tillery,2026-08-02,0.46729833635069706,False
+lake_tillery,Lake Tillery,2026-08-03,0.40339582361408716,False
+lake_tillery,Lake Tillery,2026-08-04,0.5894891025594781,True
+lake_tillery,Lake Tillery,2026-08-05,0.39153718308534546,False
+lake_tillery,Lake Tillery,2026-08-06,0.3926559444064507,False
+lake_tillery,Lake Tillery,2026-08-07,0.3720730738969221,False
+lake_tillery,Lake Tillery,2026-08-08,0.38127130039512047,False
+lake_tillery,Lake Tillery,2026-08-09,0.3775191826556993,False
+lake_tillery,Lake Tillery,2026-08-10,0.3733342201313612,False
+lake_tillery,Lake Tillery,2026-08-11,0.3820417197006381,False
+lake_tillery,Lake Tillery,2026-08-12,0.4501254643436351,False
+lake_tillery,Lake Tillery,2026-08-13,0.4337345768429929,False
+lake_tillery,Lake Tillery,2026-08-14,0.5011316753377905,False
+lake_tillery,Lake Tillery,2026-08-15,0.41379724473865104,False
+lake_tillery,Lake Tillery,2026-08-16,0.4704363333080156,False
+lake_tillery,Lake Tillery,2026-08-17,0.4049945707934913,False
+lake_tillery,Lake Tillery,2026-08-18,0.4308862327072484,False
+lake_tillery,Lake Tillery,2026-08-19,0.45511060621242494,False
+lake_tillery,Lake Tillery,2026-08-20,0.5389414263190533,False
+lake_tillery,Lake Tillery,2026-08-21,0.649225010857594,True
+lake_tillery,Lake Tillery,2026-08-22,0.40488197538174747,False
+lake_tillery,Lake Tillery,2026-08-23,0.395095095978776,False
+lake_tillery,Lake Tillery,2026-08-24,0.37108147504249,False
+lake_tillery,Lake Tillery,2026-08-25,0.3726675888277798,False
+lake_tillery,Lake Tillery,2026-08-26,0.44055319699912643,False
+lake_tillery,Lake Tillery,2026-08-27,0.5147860044464959,False
+lake_tillery,Lake Tillery,2026-08-28,0.38218576345327654,False
+lake_tillery,Lake Tillery,2026-08-29,0.4515169271430192,False
+lake_tillery,Lake Tillery,2026-08-30,0.37860907588278425,False
+lake_tillery,Lake Tillery,2026-08-31,0.3776001478516001,False
+lake_tillery,Lake Tillery,2026-09-01,0.3837560485075419,False
+lake_tillery,Lake Tillery,2026-09-02,0.4592285484057704,False
+lake_tillery,Lake Tillery,2026-09-03,0.3911458114247691,False
+lake_tillery,Lake Tillery,2026-09-04,0.3870189454340945,False
+lake_tillery,Lake Tillery,2026-09-05,0.42732597648985665,False
+lake_tillery,Lake Tillery,2026-09-06,0.37799357737365674,False
+lake_tillery,Lake Tillery,2026-09-07,0.38315097270873294,False
+lake_tillery,Lake Tillery,2026-09-08,0.3779872763132358,False
+lake_tillery,Lake Tillery,2026-09-09,0.37641442135783093,False
+lake_tillery,Lake Tillery,2026-09-10,0.38927347280560265,False
+lake_tillery,Lake Tillery,2026-09-11,0.41520642377867156,False
+lake_tillery,Lake Tillery,2026-09-12,0.46315841573042693,False
+lake_tillery,Lake Tillery,2026-09-13,0.506738088500366,False
+lake_tillery,Lake Tillery,2026-09-14,0.3801526796372372,False
+lake_tillery,Lake Tillery,2026-09-15,0.4162233388890961,False
+lake_tillery,Lake Tillery,2026-09-16,0.3695686263283854,False
+lake_tillery,Lake Tillery,2026-09-17,0.3867459197206777,False
+lake_tillery,Lake Tillery,2026-09-18,0.4114059515420289,False
+lake_tillery,Lake Tillery,2026-09-19,0.37354472200186484,False
+lake_tillery,Lake Tillery,2026-09-20,0.3968518745118925,False
+lake_tillery,Lake Tillery,2026-09-21,0.3715884343170938,False
+lake_tillery,Lake Tillery,2026-09-22,0.4144015928772049,False
+lake_tillery,Lake Tillery,2026-09-23,0.6780398761725139,True
+lake_tillery,Lake Tillery,2026-09-24,0.5203829838926146,False
+lake_tillery,Lake Tillery,2026-09-25,0.41226912793401715,False
+lake_tillery,Lake Tillery,2026-09-26,0.43487180860017105,False
+lake_tillery,Lake Tillery,2026-09-27,0.503236515185025,False
+lake_tillery,Lake Tillery,2026-09-28,0.4270010111876705,False
+lake_tillery,Lake Tillery,2026-09-29,0.4112498782735067,False
+lake_tillery,Lake Tillery,2026-09-30,0.39492120643862155,False
+lake_tillery,Lake Tillery,2026-10-01,0.3774826820609236,False
+lake_tillery,Lake Tillery,2026-10-02,0.4072748694596251,False
+lake_tillery,Lake Tillery,2026-10-03,0.5170352216012785,False
+lake_tillery,Lake Tillery,2026-10-04,0.4535966979943163,False
+lake_tillery,Lake Tillery,2026-10-05,0.4037591476927417,False
+lake_tillery,Lake Tillery,2026-10-06,0.4034224329248654,False
+lake_tillery,Lake Tillery,2026-10-07,0.4325909099906644,False
+lake_tillery,Lake Tillery,2026-10-08,0.41147356128798285,False
+lake_tillery,Lake Tillery,2026-10-09,0.3985277186998372,False
+lake_tillery,Lake Tillery,2026-10-10,0.4300860420780723,False
+lake_tillery,Lake Tillery,2026-10-11,0.5353856927382248,False
+lake_tillery,Lake Tillery,2026-10-12,0.3992148873690542,False
+lake_tillery,Lake Tillery,2026-10-13,0.41564962127911215,False
+lake_tillery,Lake Tillery,2026-10-14,0.3874964705477734,False
+lake_tillery,Lake Tillery,2026-10-15,0.3880293366105481,False
+lake_tillery,Lake Tillery,2026-10-16,0.4865569604029394,False
+lake_tillery,Lake Tillery,2026-10-17,0.5065595152741861,False
+lake_tillery,Lake Tillery,2026-10-18,0.5024655606343333,False
+lake_tillery,Lake Tillery,2026-10-19,0.4760448687713746,False
+lake_tillery,Lake Tillery,2026-10-20,0.44569969212361515,False
+lake_tillery,Lake Tillery,2026-10-21,0.42233132406144547,False
+lake_tillery,Lake Tillery,2026-10-22,0.4769343355155284,False
+lake_tillery,Lake Tillery,2026-10-23,0.43406773435890633,False
+lake_tillery,Lake Tillery,2026-10-24,0.444344931893359,False
+lake_tillery,Lake Tillery,2026-10-25,0.4274389794276924,False
+lake_tillery,Lake Tillery,2026-10-26,0.46319734060939577,False
+lake_tillery,Lake Tillery,2026-10-27,0.43385444706150067,False
+lake_tillery,Lake Tillery,2026-10-28,0.41231177155191645,False
+lake_tillery,Lake Tillery,2026-10-29,0.4088861905247633,False
+lake_tillery,Lake Tillery,2026-10-30,0.4326005151998313,False
+lake_tillery,Lake Tillery,2026-10-31,0.4179800768852156,False
+lake_tillery,Lake Tillery,2026-11-01,0.706682079653481,True
+lake_tillery,Lake Tillery,2026-11-02,0.42098681371670044,False
+lake_tillery,Lake Tillery,2026-11-03,0.40886058042321805,False
+lake_tillery,Lake Tillery,2026-11-04,0.40150624529165213,False
+lake_tillery,Lake Tillery,2026-11-05,0.4115264286095731,False
+lake_tillery,Lake Tillery,2026-11-06,0.49094284797516496,False
+lake_tillery,Lake Tillery,2026-11-07,0.4110223724208465,False
+lake_tillery,Lake Tillery,2026-11-08,0.4427775471092917,False
+lake_tillery,Lake Tillery,2026-11-14,0.5874699661913183,True
+lake_tillery,Lake Tillery,2026-11-15,0.6179970237392913,True
+lake_tillery,Lake Tillery,2026-11-16,0.5576377248888302,False
+lake_tillery,Lake Tillery,2026-11-17,0.5836185000192329,True
+lake_tillery,Lake Tillery,2026-11-18,0.5367987165769955,False
+lake_tillery,Lake Tillery,2026-11-19,0.5117408402084612,False
+lake_tillery,Lake Tillery,2026-11-20,0.45164688706727796,False
+lake_tillery,Lake Tillery,2026-11-21,0.6306429387712582,True
