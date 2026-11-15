@@ -2,7 +2,7 @@ name: Refresh Lake Conditions Data
 
 on:
   schedule:
-    - cron: "0 12 * * 1"  # Mondays at 8:00 AM Eastern
+    - cron: "0 12 * * *"  # Daily at 8:00 AM Eastern
   workflow_dispatch:
 
 jobs:
