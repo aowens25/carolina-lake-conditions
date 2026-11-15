@@ -5,6 +5,7 @@ import pandas as pd
 import streamlit as st
 
 DB_PATH = Path("data/lake_conditions.duckdb")
+ANOMALY_PATH = Path("data/consumption/lake_weather_anomalies.csv")
 
 
 @st.cache_data
@@ -12,9 +13,7 @@ def load_data() -> pd.DataFrame:
     if not DB_PATH.exists():
         st.error("DuckDB database not found. Run the pipeline first.")
         return pd.DataFrame()
-
     conn = duckdb.connect(str(DB_PATH))
-
     df = conn.execute(
         """
         SELECT *
@@ -22,49 +21,45 @@ def load_data() -> pd.DataFrame:
         ORDER BY weather_date
         """
     ).df()
-
     conn.close()
-
     df["weather_date"] = pd.to_datetime(df["weather_date"])
-
     return df
+
+
+def load_anomalies() -> pd.DataFrame:
+    if not ANOMALY_PATH.exists():
+        return pd.DataFrame()
+    anomalies = pd.read_csv(ANOMALY_PATH)
+    anomalies["weather_date"] = pd.to_datetime(anomalies["weather_date"])
+    anomalies["is_anomaly"] = anomalies["is_anomaly"].astype(str).str.lower().eq("true")
+    return anomalies
 
 
 def main() -> None:
     st.set_page_config(page_title="Carolina Lake Conditions", layout="wide")
-
     st.title("Carolina Lake Conditions Dashboard")
-
     df = load_data()
-
     if df.empty:
         return
 
     st.sidebar.header("Filters")
-
     lake_names = sorted(df["lake_name"].unique())
     selected_lake = st.sidebar.selectbox("Select Lake", lake_names)
-
     filtered_lake = df[df["lake_name"] == selected_lake].copy()
-
     selected_date = st.sidebar.date_input(
         "Select Date",
         value=filtered_lake["weather_date"].min(),
         min_value=filtered_lake["weather_date"].min(),
         max_value=filtered_lake["weather_date"].max(),
     )
-
     filtered_day = filtered_lake[
         filtered_lake["weather_date"] == pd.to_datetime(selected_date)
     ]
 
     st.subheader(f"{selected_lake} Conditions Summary")
-
     if not filtered_day.empty:
         row = filtered_day.iloc[0]
-
         col1, col2, col3, col4 = st.columns(4)
-
         col1.metric("Conditions", row["conditions_label"])
         col2.metric("Score", int(row["conditions_score"]))
         col3.metric("Temp Max (°F)", round(row["temperature_max_f"], 1))
@@ -73,7 +68,6 @@ def main() -> None:
         st.warning("No data available for the selected date.")
 
     st.subheader("Forecast Table")
-
     table_df = filtered_lake.sort_values("weather_date")[
         [
             "weather_date",
@@ -85,25 +79,49 @@ def main() -> None:
             "conditions_label",
         ]
     ]
-
     st.dataframe(table_df, use_container_width=True)
 
-    st.subheader("Temperature Trend")
+    st.subheader("Unusual Weather Patterns")
+    anomalies = load_anomalies()
+    if anomalies.empty:
+        st.caption("Anomaly results will appear after the next data refresh.")
+    else:
+        flagged = anomalies[
+            (anomalies["lake_name"] == selected_lake) & anomalies["is_anomaly"]
+        ]
+        flagged = filtered_lake.merge(
+            flagged[["weather_date", "anomaly_score"]],
+            on="weather_date",
+            how="inner",
+        )
+        if flagged.empty:
+            st.caption("No unusual records flagged for this lake.")
+        else:
+            st.caption("Statistical outliers for review; these are not safety advisories.")
+            st.dataframe(
+                flagged[
+                    [
+                        "weather_date",
+                        "temperature_max_f",
+                        "temperature_min_f",
+                        "precipitation_in",
+                        "wind_speed_max_mph",
+                        "anomaly_score",
+                    ]
+                ].sort_values("anomaly_score", ascending=False),
+                use_container_width=True,
+            )
 
+    st.subheader("Temperature Trend")
     temp_chart_df = filtered_lake.set_index("weather_date")[
         ["temperature_max_f", "temperature_min_f"]
     ]
-
     st.line_chart(temp_chart_df)
-
     st.subheader("Wind and Precipitation")
-
     col1, col2 = st.columns(2)
-
     with col1:
         wind_chart_df = filtered_lake.set_index("weather_date")[["wind_speed_max_mph"]]
         st.line_chart(wind_chart_df)
-
     with col2:
         precip_chart_df = filtered_lake.set_index("weather_date")[["precipitation_in"]]
         st.bar_chart(precip_chart_df)
