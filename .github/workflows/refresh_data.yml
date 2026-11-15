@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Update checkout to latest main
+        run: git pull --ff-only origin main
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
