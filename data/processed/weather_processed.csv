@@ -286,6 +286,13 @@ high_rock_lake,High Rock Lake,2026-11-22,59.6,47.6,0.665,18.4,open_meteo,2026-11
 high_rock_lake,High Rock Lake,2026-11-23,68.0,47.0,0.0,12.8,open_meteo,2026-11-19T19:47:18.837842+00:00,high_rock_lake_weather_open_meteo_20261119_194718.json
 high_rock_lake,High Rock Lake,2026-11-24,56.6,40.2,0.0,9.5,open_meteo,2026-11-19T19:47:18.837842+00:00,high_rock_lake_weather_open_meteo_20261119_194718.json
 high_rock_lake,High Rock Lake,2026-11-25,42.8,35.7,0.0,11.3,open_meteo,2026-11-19T19:47:18.837842+00:00,high_rock_lake_weather_open_meteo_20261119_194718.json
+high_rock_lake,High Rock Lake,2026-11-20,69.7,37.5,0.0,8.5,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
+high_rock_lake,High Rock Lake,2026-11-21,60.1,46.0,0.016,10.8,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
+high_rock_lake,High Rock Lake,2026-11-22,57.9,55.1,0.182,12.5,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
+high_rock_lake,High Rock Lake,2026-11-23,69.0,51.4,0.008,8.2,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
+high_rock_lake,High Rock Lake,2026-11-24,59.9,46.5,0.0,10.6,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
+high_rock_lake,High Rock Lake,2026-11-25,51.9,40.8,0.004,13.7,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
+high_rock_lake,High Rock Lake,2026-11-26,46.1,44.7,0.217,12.2,open_meteo,2026-11-20T19:27:21.309519+00:00,high_rock_lake_weather_open_meteo_20261120_192721.json
 lake_norman,Lake Norman,2026-05-02,61.6,52.8,0.0,9.6,open_meteo,2026-05-03T01:17:35.716253+00:00,lake_norman_weather_open_meteo_20260503_011735.json
 lake_norman,Lake Norman,2026-05-03,69.1,41.3,0.0,7.7,open_meteo,2026-05-03T01:17:35.716253+00:00,lake_norman_weather_open_meteo_20260503_011735.json
 lake_norman,Lake Norman,2026-05-04,77.6,45.0,0.0,10.3,open_meteo,2026-05-03T01:17:35.716253+00:00,lake_norman_weather_open_meteo_20260503_011735.json
@@ -573,6 +580,13 @@ lake_norman,Lake Norman,2026-11-22,72.6,48.7,0.102,14.6,open_meteo,2026-11-19T19
 lake_norman,Lake Norman,2026-11-23,69.8,48.0,0.0,11.0,open_meteo,2026-11-19T19:47:18.819244+00:00,lake_norman_weather_open_meteo_20261119_194718.json
 lake_norman,Lake Norman,2026-11-24,58.8,42.0,0.0,10.1,open_meteo,2026-11-19T19:47:18.819244+00:00,lake_norman_weather_open_meteo_20261119_194718.json
 lake_norman,Lake Norman,2026-11-25,44.5,36.7,0.0,12.2,open_meteo,2026-11-19T19:47:18.819244+00:00,lake_norman_weather_open_meteo_20261119_194718.json
+lake_norman,Lake Norman,2026-11-20,68.0,37.0,0.0,9.9,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
+lake_norman,Lake Norman,2026-11-21,58.3,43.9,0.087,13.4,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
+lake_norman,Lake Norman,2026-11-22,55.9,52.1,0.161,13.4,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
+lake_norman,Lake Norman,2026-11-23,69.1,51.0,0.0,6.3,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
+lake_norman,Lake Norman,2026-11-24,58.2,49.3,0.0,10.6,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
+lake_norman,Lake Norman,2026-11-25,51.9,42.1,0.004,13.8,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
+lake_norman,Lake Norman,2026-11-26,45.2,44.3,0.35,11.5,open_meteo,2026-11-20T19:27:21.290546+00:00,lake_norman_weather_open_meteo_20261120_192721.json
 lake_tillery,Lake Tillery,2026-05-02,62.0,51.8,0.087,8.5,open_meteo,2026-05-03T01:17:36.224302+00:00,lake_tillery_weather_open_meteo_20260503_011736.json
 lake_tillery,Lake Tillery,2026-05-03,70.4,43.7,0.0,8.1,open_meteo,2026-05-03T01:17:36.224302+00:00,lake_tillery_weather_open_meteo_20260503_011736.json
 lake_tillery,Lake Tillery,2026-05-04,80.0,48.0,0.0,10.5,open_meteo,2026-05-03T01:17:36.224302+00:00,lake_tillery_weather_open_meteo_20260503_011736.json
@@ -860,3 +874,10 @@ lake_tillery,Lake Tillery,2026-11-22,58.8,48.3,1.937,20.0,open_meteo,2026-11-19T
 lake_tillery,Lake Tillery,2026-11-23,70.9,46.4,0.0,11.1,open_meteo,2026-11-19T19:47:18.828883+00:00,lake_tillery_weather_open_meteo_20261119_194718.json
 lake_tillery,Lake Tillery,2026-11-24,58.2,45.4,0.0,10.1,open_meteo,2026-11-19T19:47:18.828883+00:00,lake_tillery_weather_open_meteo_20261119_194718.json
 lake_tillery,Lake Tillery,2026-11-25,45.4,38.5,0.0,11.6,open_meteo,2026-11-19T19:47:18.828883+00:00,lake_tillery_weather_open_meteo_20261119_194718.json
+lake_tillery,Lake Tillery,2026-11-20,71.4,40.2,0.0,9.2,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
+lake_tillery,Lake Tillery,2026-11-21,64.0,52.4,0.0,11.4,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
+lake_tillery,Lake Tillery,2026-11-22,61.4,58.2,0.15,12.7,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
+lake_tillery,Lake Tillery,2026-11-23,72.3,55.5,0.008,6.7,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
+lake_tillery,Lake Tillery,2026-11-24,61.4,50.7,0.0,11.0,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
+lake_tillery,Lake Tillery,2026-11-25,53.7,43.3,0.004,12.7,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
+lake_tillery,Lake Tillery,2026-11-26,49.4,47.1,0.181,12.3,open_meteo,2026-11-20T19:27:21.300052+00:00,lake_tillery_weather_open_meteo_20261120_192721.json
